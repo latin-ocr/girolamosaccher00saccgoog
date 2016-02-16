@@ -1,0 +1,44 @@
+since with this (Eu. I. 13) 1121 the angle XAH makes
+up two. Wherefore, subtracting the right angle ΗΑΒ,
+the angles ADB and BAD will be together less than one
+right angle.
+
+Quod erat tertium.
+
+PROPOSITION K
+
+If the straight ΠΒ (fip. 8) stand perpendiculor to u
+straipht ABM, and the join ΠΜ be preater than the
+join DA, then also the bose ΒΜ will be preater than
+the bose ΒΑ. And inverselp.
+
+Pnoor. And in the first place assuredly these bases
+will not be mutually equal. Otherwise (Eu. Ι. 4) AD
+and DM would be equal‚ contrary to the hypothesis.
+
+Ax
+
+s s Ν
+Fig. 8.
+
+But neither will BA be greater than ΒΜ. Otherwise,
+in BA the portion BS being taken equal to ΒΜ, and SD
+joined, the angles BSD, BMD (Eu. Ι. 4) would be equal.
+But angle BSD is (Eu. 1. 16) greater than angle BAD.
+Thereiore angle BMD would be greater than angle BAD.
+But this is contrary to Eu. 1. 18; since side DM in triangle
+MDA is supposed greater than side DA. It remains
+therefore, that the base ΒΜ is greater than the base BA.
+, Quod erat primo loco demonstrandum.
+
+Next if either base, as BA suppose (the figure need
+not be changed) is conceived as greater than the other
+ΒΜ; then the join DS, which cuts off from BA the por-
+tion SB equal to ΒΜ, will be equal (Eu. I. 4) to the
+join DM. Again angle DSA will be obtuse (Eu. Ι. 16)
+and angle DAS acute (Eu. Ι. 17).
+
+⁴³
+
+ 
+

@@ -1,0 +1,47 @@
+by Saccheri under the name oi fallaciae duplicis hypothesis
+are precisely those which consist in believing that conse·
+quences worth considering can be deduced irom systems oi
+hypotheses incompatible with one another (to wit, such
+that among them are some whose negation can be deduced
+from the others) ; and oi such he passes in review various
+types, beginning with the simplest, namely, that oi a syllo-
+gism whose premises directly contradict one another, and
+going on to the more complicated cases in which the contra·
+diction can be revealed only by the successive development
+oi the consequences oi the system oi hypotheses, or postu·
+lates, assumed as basis oi the entire matter.
+
+In the investigation oi the independence oi postulates the
+method consists in finding a case or a particular interpre-
+tation in which the proposition we wish to prove not dedu·
+cible from others given, ceases to be true while all the others
+remain true. li such is found, we conclude that the propo-
+sition cannot be deduced from these others, else it would be
+true whenever they were,
+
+This use and construction oi examples to show the
+independence oi a certain proposition from others given
+has oi late assumed the importance oi an ordinary and
+indispensable procedure in the strictly rigorous elaboration
+oi any deductive theory (in America, Robert L. Moore,
+Huntington,'Veblen, and others). But Saccheri was the
+first to use this procedure, and constructs his example with·
+out leaving the field of formal logie. Ii his treatment oi
+his “hypothesis oi acute angle’' is another case, it is the most
+marvelous in the world.
+
+In his Opus de proportionibus (lib. V, prop. 201),⁸
+Cardan (bornat Pavia, 1501), to prove that two sides oi
+a certain triangle he has occasion to consider are greater
+than a certain arc oi a circle comprised between them, adopts
+
+a peculiar reasoning and vaunts himself oi this singular
+procedure as an extraordinary discovery oi his own:
+
+⁸Cordoni opera, Lugduni [Lyons], 16⁶³, t. 1v, p. ⁵79,pub1inea
+bv Spon in ten volumes‚ lolio.
+
+axi
+
+ 
+

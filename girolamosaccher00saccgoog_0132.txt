@@ -1,0 +1,39 @@
+quarn puto omnium efficacissimam, ac simplicissimam, '
+
+utpote quae subest communi, facillimae, paratissimaeque
+experientiae. Si enimin circulo, cujus centrum D,'tres
+coaptentur (fig. 22.) rectae lineae CB, BL, LA, aequales
+singulae radio DC, comperiaturque juncta AC transire
+per centrum D, satis id erit ad demonstrandum intentum.
+Nam junctis DB, DL, tria habebimus triangula, quac
+
+(ex 8. et 5. primi) turn inter se invicem, tum etiam in se
+ipsis singula erunt aequiangula. Quoniam igitur tres
+simul anguli ad punctum D, nimirum ADL, LDB, BDC
+aequales sunt (ex 13. primi) duobus rectis ; duobus etiarn
+rectis aequales crunt tres simul anguli cujusvis illorum
+triangulorum, ut puta trianguli BDC. Quare (ex 15.
+
+hujus) stabilita hinc erit hypothesis anguli recti; ac prop-
+terea (ex jam nota 13. hujus) demonstratum manebit
+illud Pronunciatum.
+
+Sin veru, ante omnem attentatam seu demonstratio·
+nem, seu figuralem exhibitionem, conferre inter se pla-
+ceat duo illa Pronunciata‚ fateor sane Euclidaeum videri
+posse obscurius, autetiam falsitati obnoxium. At post
+
+' figuralem exhibitionem, quarn Scholio IV. consequenti re-
+
+serv0, constabit viceversa Pronunciatum quidem Eucli-
+daeum retinere posse dignitatem, ac nomen Pronunciati,
+alterum vero inter Theoremata computari tutius debere.
+
+Sed hic explicare debeo (prout paulo ante me factu·
+rum- spopondi) manifestam isto in genere disparitatem
+inter lineam circularem, ¹et lineam rectam. Disparitas
+autern exeo oritur ; quod recta quidem linea dicitur ad se
+ipsam ; circularis ver0, ut puta (fig. 23¹.) MDHNM, non ad
+
+ 
+

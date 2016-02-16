@@ -1,0 +1,45 @@
+BAH to the right angle at A; and again in those two
+triangles equal angles are adjacent to this side ΗΒ, which
+are in the first triangle indeed the angle BHD, and in the
+latter the angle HBA; also (Eu. 1. 26) the remaining
+angle HBD in the former triangle will be equal to the
+remaining angle BHA in the latter triangle. Wherefore
+the entire angle DBA will be equal to the entire angle
+
+Now however, neither oi the aforesaid equal angles
+will be obtuse, lest we meet (from the preceding propo-
+sition) a case oi the now rejected hypothesis of obtuse
+angle.
+
+Nor will either be right, lest we meet (from the
+same preceding) a case oi the hypothesis oi right angle,
+which (P. V.) will leave no place ior the hypothesis of
+acute angle. Thereiore each one oi those angles will be
+acute. This being the case: that the straight BD pro·
+duced cannot meet in a certain point K this AH produced
+toward the same parts, is demonstrated thns; because in
+the triangle KDH, besides the right angle at D, is present
+the obtuse angle at H, since the angle AHD in the afore·
+said hypothesis oi acute angle is proved acute. But this
+is absurd‚ against Eu. I. 17. -
+
+“ Therefore it cannot hold good in this hypothesis, that
+
+any BD, making with an arbitrarily small straight AB
+any acute angle toward the parts of this AH, will at
+length at a finite, or terminated distance, meet this ΑΗ
+produced.
+
+Quod erat demonstrandum.
+
+The same otherwise and more easily.
+
+Two perpendiculars AK, ΒΜ stand on a certain
+straight AB, as small as you choose (fig. 16). [2⁵] From
+any point M of this ΒΜ let fall to AK the perpendicular
+MH, and join BH. It follows that the angle BHM will
+
+71
+
+ 
+

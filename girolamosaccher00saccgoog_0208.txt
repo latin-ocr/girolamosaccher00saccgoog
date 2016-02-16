@@ -1,0 +1,43 @@
+debet demonstratum in XXVIII. hujus, prout moneo in
+ejusdem Corollario.
+
+Itaque constat unum aliquem fore (in hypothesi an·
+guli acuti) determinatum acutum angulum BAX, sub
+quo educta AX non nisi ad infinitam distantiam incidat in
+[70] eam ΒΧ, ac propterea sit ipsa limes partim intrin-
+secus, partim extrinsecus ; tum earum omnium, quae sub
+minoribus acutis angulis ad finitam distantiam incidunt in
+praedictam BX; tum etiam aliarum, quae sub majoribus
+angulis acutis, usque ad angulum rectum inclusive, corn-
+mune obtinent in duobus distinctis punctis perpendiculum
+cum eadem ΒΧ. Quod erat etc.
+
+PROPOSITIO XXXIII.
+
+H ypothesis eupuli acuti est obsolute falsa· quio repugnans
+naturae lineae rectae.
+
+Demonstratur. Ex praemissis Theorematis constare
+potest eo tandem perducere Geometriae Euclideae inimi-
+cam hypothesin anguli acuti, ut agnoscere debeamus duas
+In eodem plano existentes rectas AX, BX, quaein infini-
+tum protractae versus eas partes punctorum X in unam
+tandem eandemque rectam lineam coire debeant, nimi-
+rum recipiendo in uno eodemque infinite dissito puncto
+X, commune in eodem cum ipsis plano perpendiculum.
+Quoniam vero de primis ipsis principiis agendum mihi
+hic est, diligenter curab0‚ ut nihil omittam quasi nimis
+scrupulose objectum, quod quidem exactissimae demon-
+strationi opportunum esse cognoscam.
+
+LEMMA 1.
+
+Duae rectae lineae spatium non comprehendunt.
+
+Definit Euclides lineam rectam, quae exaequo sua
+interjacet puncto. Esto igitur (fig. 37.) linea quaedam
+
+¹72
+
+ 
+

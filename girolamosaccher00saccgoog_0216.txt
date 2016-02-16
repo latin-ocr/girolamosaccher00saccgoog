@@ -1,0 +1,35 @@
+per punctum X in eodem plano continuatis AXB, et
+AXC. Tum centro X, et intervallo XB, sive XC, descri-
+batur arcus BMC, ad cujus quodlibet punctum M junga-
+tur ex puncto X recta XM.
+
+Dico primo, lineam AXM lore et ipsam, in iacta
+hy-ttdpothesi, lineam rectam, ex puncto Α per punctum
+X continuatam. Si enim linea ejusmodi recta non sit,
+duci poterit (ex Cor. I. praecedentis Lemmatis) alia quae·
+dam linea AM, quae ipsa sit recta. Haec autem vel secabit
+in aliquo puncto K alterutram ipsarum XB, XC; vel
+earundem alterutram, ut puta eam XB claudet intra spa·
+tium comprehensum ipsis AX, XM, et APLM. At horum
+‘prius manifeste repugnat praecedenti Lemmati ; quia sic
+duae suppositae rectae lineae, una ΑΧΚ, et altera ATK,
+spatium clauderent. Posterius autem uniformis absurdi
+statim convincitur.
+
+Nam constat rectam XB, si per B ulterius protrahatur,
+occursuram tandem in aliquo puncto L ipsi APLM; unde
+rursum duae suppositae rectae, una AXBL‚ et altera APL,
+spatium claudent. Porro uniforme sequitur absurdum,
+si fingamus, quod recta XB, ulterius protracta per B,
+occurrat tandem in quovis alio puncto aut rectae XM, aut
+rectae XA.
+
+Ex istis autem evidenter consequitur lineam ΑΧΜ
+fore ipsam, in facta hypothesi, lineam rectam ex puncto
+A ad punctum M deductam. Quod erat propositum.
+
+Dico secund0, eam suppositam rectam AXB (quate-
+nus quidem intelligatur conservare suam illam qualem·
+
+ 
+

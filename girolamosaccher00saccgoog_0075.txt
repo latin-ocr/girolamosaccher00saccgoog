@@ -1,0 +1,51 @@
+PROPOSITION VIII.
+
+Given απ) trionyle (fio. 7) ΑΒΗ, right-anoleil at Β ,· pro·
+long DA to any point X, ond through A erect Hac
+perpendicular to AB, the point
+H being within the angle XAB.
+I say the externat onyle XAH
+will be equol to, or less, or
+
+· greater than the internol ond op·
+posite ADB, according os ir true
+the hypothesis os right angle, or Α b
+
+C D
+
+obtuse angle, or acute angle: ond ¹ ¹⁴
+inversely. ΙΙΙ· ⁷·
+
+Pnoor. Assume in HC the portion Ac equal to BD,
+and join (ΣΙ). CD will be, in the hypothesis of right
+angle (P. ΙΙΙ.) equal to AB. Wherefore the angle ADB
+will be equal (Eu. Ι. 8) to the angle DAC, or to its equal
+(Eu. 1. 15) the angle XAH.
+
+Quod erat primo loco demonstrandum.
+
+Then, in the hypothesis of obtuse angle, CD will be
+(P. ΙΙΙ.) less than ΑΒ.
+
+Wherefore in the triangles ADB, DAC the angle
+DAC, or its vertical XAH, will be (Eu. Ι. 25) less than
+the angle ADB.
+
+Quod erat secundo loco demonstrandum.
+
+Finally, in the hypothesis of acute angle, CD will be
+(P. III.) greater than the opposite ΑΒ. Whereiore in
+the said triangle the angle DAC, or its vertical XAH, will
+be (Eu. I.⁴ 25) greater than the angle ADB.
+
+Quod erat tertio loco demonstrandum.
+
+But inversely: if the angle cho, or its vertical XAH,
+be equal to the internal and opposite ADB; the join CD
+will be (Eu. Ι. 4) equal to AB, and therefore [11] the hy·
+pothesis oi right angle will be (P. IV.) true.
+
+³9
+
+ 
+

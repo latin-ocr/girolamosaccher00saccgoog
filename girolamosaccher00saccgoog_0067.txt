@@ -1,0 +1,48 @@
+superposition oi the quadrilateral ABDC upon the quad·
+rilateral CDXR, applied to the common base CD.
+
+Also we may proceed more elegantly thus. Join
+AD, RD. It follows (Eu. I. 4) in the triangles ACD,
+RCD, the bases AD, RD will be equal and likewise the
+angles ΕΒΑ, CDR, and certainly ADB, RDX because
+equal remainders from a right angle. Whereby in tum
+(Eu. Ι. 4) in the triangles ADB, RDX, the base AB will
+
+be equal to the base RX. Therefore (P. IV.) the angles
+at the join RX will be right, and so we abide in the same
+
+¹ hypothesis of right angle.
+
+Since now the length of the perpendiculars can be
+similarly increased infinitely, under the same base AB,
+the hypothesis of right angle always subsisting‚ it only
+remains to be proved that the same hypothesis will always
+abide in any case of diminution of those perpendiculars;
+which indeed is thus evinced. [7]
+
+Assume in AR, and ΒΧ any two equal perpendiculars
+AL, ΒΚ, and join LK. If the angles at the join LK
+are not right, nevertheless (P. Ι.) they will be equal to
+each other. Thereiore they will be toward one part, as
+suppose toward AB obtuse, and toward RX acute, since
+certainly the angles here at each of those points are
+(Eu. Ι. 13) equal to two rights.
+
+But it also holds that the perpendiculars LR, KX,
+those standing upon Rx, will be mutually equal. There·
+fore (P. ΙΙΙ.) LK will be greater indeed than the oppo-
+site RX, and less than the opposite AB.
+
+But this is absurd; because ΑΒ, and RX have been
+shown equal. Thereiore the hypothesis of right angle
+
+ε is not changed by any diminution oi the perpendiculars,
+.· whilst abides the once posited base AB.
+
+But neither is the hypothesis oi right angle changed
+
+‚ ior any diminution, or greater amplitude of the base;
+since manifestly may be considered as base any perpen-
+
+ 
+

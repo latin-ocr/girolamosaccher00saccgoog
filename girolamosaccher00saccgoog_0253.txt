@@ -1,0 +1,35 @@
+corresponding parts, oi which it is certain they are equal
+to each other.
+Now for the prooi of the proposition.
+
+Suppose erected from the base AB to the curve CKD
+(fig. 45) indefinitely many perpendiculars NF, LF, PF,
+MK, TF, VF, IF; and on the base AB take as equal the
+portions AN, NL, LP, PM, MT, TV, VI, IB.
+
+First is certain the angle oi 'AC with the curve will
+be equal to each voi the angles of the aforesaid perpen-
+diculars with the curve on either side at the points F, or
+at the point K, or at the point D. For if the mixed
+quadrilatera] [⁹1] ANFC is supposed to be superposed
+upon the mixed quadrilateral NLFF, the base AN lying
+upon the equal base NL, Ac falls upon NF, and NF
+upon LF, because oi the equal right angles at the points
+A, N, L. Then because oi the equality (from P.
+XXXIV.) oi the straights'AC, NF, LF, the point C falls
+upon point F of NF, and this upon the other point F
+oi LF. “
+
+Moreover the curve CF exactly fits the curve FF:
+for ii one oi these, as CF fell within or without; any
+point Q being assumed between points N, and L, and the
+perpendicular being drawn cutting one curve in X, and
+the other in S, QX, QS would be equai (from the known ,
+nature oi this curve), which is absurd. The same will
+hold, if in the said superposition the straight NF remains
+in its place, and the straight Ac falls upon LF. Again
+
+¹¹7 .
+
+ 
+

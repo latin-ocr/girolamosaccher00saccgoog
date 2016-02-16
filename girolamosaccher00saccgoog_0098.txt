@@ -1,0 +1,32 @@
+fore quatuor rectis omnes simul angulos triangulorum
+’ ADB, CDB, propter duos additos rectos angulos ad
+punctum D. Hoc stante: neutrius modo dictorum trian-
+gulorum, ut puta ADB, tres simul anguli minores erunt,
+aut majores duobus rectis ; nam sic viceversa alterius tri-
+anguli tres simul anguli majores forent, aut minores duo
+bus rectis, Quare (ex nona huJ‘us) ab uno quidem
+triangulo stabiliretur hypothesis anguli acuti, et ab altero
+hypothesis anguli l2ll obtusi; quod repugnat sextae, et
+septimae hujus. Igitur tres simul anguli utriusque prae·
+dictorum triangulorum aequales erunt duobus rectis; ac
+propterea (ex nona hujus) stabilietur hypothesis anguli
+recti. Quod erat primo loco demonstrandum.
+
+Sin autem tres anguli propositi trianguli ΑΒΕ ponan-
+tur majores duobus rectis; jam duorum triangulorum
+ADB, CDB omnes simul anguli majores erunt quatuor
+rectis, propter duos additos rectos angulos ad punctum
+D. Hoc stante: neutrius modo dictorum triangulorum
+tres simul anguli aequales praecise erunt, aut minores duo
+bus rectis; nam sic viceversa alterius trianguli tres simul
+anguli majores forent duobus rectis. Quare (ex nona hu-
+jus) ab uno quidem triangulo stabiliretur hypothesis aut
+anguli recti, aut anguli acuti, et ab altero hypothesis an·
+guli obtusi, quod repugnat quintae, sextae, et septimae
+hujus. Igitur tres simul anguli utriusque praedictorum
+triangulorum majores erunt duobus rectis; ac propterea
+(ex nona hujus) stabilietur hypothesis anguli obtusi.
+Quod erat secundo loco demonstrandum.
+
+ 
+

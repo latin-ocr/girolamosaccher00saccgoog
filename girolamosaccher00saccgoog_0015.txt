@@ -1,0 +1,47 @@
+inierieure a deux droits, deux droites d’un plan se ren·
+contrent, ou sont asymptotes l’une de l'autre, ou ont une
+perpendiculaire commune a partir de laquelle elles di-
+vergent.''
+
+As substitute for Euclid’s, Borelli in 1658 proposed the
+definition: “Parallels are coplanar straights with a common
+perpendicular.” In 1756 the “famous” Robert Simson gave,
+as basis fora “propi’' oi Euclid’s Postulate, a new Axiam:
+“A straight line cannot approach toward, and then recede
+from, a straight line without cutting it.” But in Saccheri's
+Theorem not only occur, for the first time in the world,
+straight lines which are asymptotes one of another, but
+two perpendiculars to a straight line spread away from
+each other as they go out; their points at two inches from
+the straight line are farther apart than their points one inch
+from the line. ·
+
+Again, Geminos (circa 100 B.C.) defined parallels as
+straights everywhere equidistant, but Giordano Vitale da
+Bitonto (1680) saw that this presupposed the assumption
+oi Clavius 1574, that a line coplanar with a straight and
+everywhere equidistant from it is itself straight; so using
+a figure iound in Clavius, made by j0ining together the ends
+of two equal perpendiculars upon a straight, he tried to
+
+'prove this join everywhere equidistant from the straight. ¹
+
+To prove that a single point ol the join gives a perpendicular
+equal to those from its ends, he shows would be sufficient.
+
+We make the assumption of Clavius when, to draw a
+straight line, we use a ruler and pencil. Saccheri shows
+this is dependent on the “hypothesis oi right angle”; on the
+other hypotheses the equidistant is curved; in obtuse, con-
+vex to the given straight; in acute, concave.
+
+The most beautiful theorem oi geometry is Euclid‚ III,
+31: The angle in a semicircle is a right angle. But Sac-
+cheri’s Proposition 18 is: According as an angle inscribed
+ina semicircle is right, obtuse or acute, the hypothesis of
+right, obtuse or acute angle is true.
+
+l Kings iii. 5 says: “In Gibeon the Lord appeared to
+
+ 
+

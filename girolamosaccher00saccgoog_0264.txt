@@ -1,0 +1,30 @@
+SCHOLION.
+
+Observare tamen debeo, quod etiam ex hypothesi an·
+guli obtusi enascitur curva quaedam CKD, sed con-[9⁶1
+vexa versus partes basis AB. Nam MH (fig. 47.) bi··
+fariam dividens ipsas AB, CD erit (ex 2. hujus) eisdem
+perpendicularis ; et major (ex Cor. Ι. post 3. hujus) ipsis
+AC, BD, in hypothesi anguli obtusi. Quare ipsius MH
+portio quaedam MK aequalis erit ipsi AC, aut BD. Tum
+junctis CK, et KD, divisisque bifariam in punctis X, P,
+Q, N rectis CK, AM, ΜΒ, KD, constat (ex eadem 2.
+hujus) junctas PX, QN, perpendiculares fore ipsis rectis
+divisis. At rursum erunt illae (ex eodem Cor. I. post 3.
+hujus) maiores ipsis AC, MK, BD. Hinc; assumptis
+earundem portionibus PL, Qs, quae praedictis aequales
+sint; habebimus curvam, ex hypothesi anguli obtusi enas-¹
+centem, quae transibit per puncta C, L, K, S, D. Atque
+ita semper, si decernere velimus reliqua puncta ejusdem
+curvae. Inde autem constat eam iore convexam versus
+partes basis ΑΒ. Jarn fateor demonstrari uniformi plane
+methodo potuisse aequalitatem hujus curvae curn ipsa
+basi AB. At quis fructus? Nullus sane. Quemadmodum
+enirn curva ista CKD censeri debet, ex communi saltem
+notione, major recta CD; ita etiam (in 3. hujus) basis
+AB demonstratur major eadem CD, dum stet hypothesis
+anguli obtusi. Nullum ergo ex hac parte absurdum, si
+basis AB aequalis sit praedictae curvae. Aliter vero rem 3
+
+ 
+

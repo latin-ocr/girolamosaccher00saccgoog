@@ -1,0 +1,33 @@
+ulterius protractae. Igitur junctis AM, et CM, erit an·
+gulus ΑΜΕ acutus, quia minor (ex eadem 21. primi)
+
+illo angulo ΑΒΕ, qui ponitur rectus. Quare (ex praere·
+dente) stabilietur hypothesis anguli acuti. Quod erat
+tertio loco demonstrandum. Itaque constant omnia pro
+posita. [28]
+
+PROPOSITIO XX.
+
+Esto triangulum ACM (fig. 19.) rectaequlum in C. Tum
+expuncto B dividente bifarium ipsam ΑΜ demit-
+tatur od AC perpendicularis BD. Dico hanc per·
+pendiculurem majorem non fore (in hypothesi anguli
+acuti) medietate perpendicularis MC.
+
+Demonstratur. Continuetur enim DB usquead DH
+duplam ipsius DB. Foret igitur DH (si DB major sit
+praedicta medietate) major ipsa CM, ac propterea aequalis
+cuidam continuatae CMK. Jungantur AH, ΗΚ, ΗΜ,
+MD. Jam sic progredimur. Quoniam in triangulis HBA,
+DBM, aequalia ponuntur latera ΗΒ, ΒΑ, lateribus DB,
+BM; suntque (ex 15. primi) aequales anguli ad punctum
+B; erit etiam (ex quarta ejusdem primi) basis HA aequa·
+lis basi MD. Deinde, propter eandem rationem, aequales
+erunt in triangulis HBM, DBA, bases HM, DA. Quare
+in triangulis MHA, ADM, aequales erunt (ex 8. primi)
+anguli MHA, ADM. Rursum in triangulis ΑΗΒ, MDB,
+aequalis manebit angulus residuus MHB residuo recto
+angulo ADB. Igitur rectus erit angulus MHB. At hoc
+
+ 
+

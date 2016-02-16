@@ -1,0 +1,36 @@
+perpendicularis CB. Dico stabilitum hinc iri hypo-
+thesim aut anpuli recti, aut unpuh‘ obtusi, aut eupuli
+acuti, prout portio ΗΒ aqualis fue-[Ulrit aut major,
+aut minor ipsa ΑΗ .
+
+Demonstratur. Nam juncta DB erit (ex 4. primi, et
+ex 10. hujus) aut aequalis, aut major, aut minor ipsa
+AD, sive DC, prout illa portio ΗΒ aequalis inerit, aut
+major, aut minor ipsa AH.
+
+Et primo quidem sit ΗΒ aequalis ipsi AH, ita nt
+propterea juncta DB aequalis sit ipsi AD, sive DC. Con-
+statcircumierentiam circuli, qui centro D, et intervallo
+DB describatur, transituram per puncta A, et C. Igitur
+angulus ABC, qui ponitur rectuS, existet in eo semicir-
+cu10, cujus diameter AC. Quare (ex praecedente) sta-
+bilietur hypothesis anguli recti. Quod erat primo loco
+demonstrandum.
+
+Sit secundo ΗΒ major ipsa AH, ita ut propterea
+juncta DB major sit ipsa AD, sive DC. Constat circum-
+ferentiam circuli, qui centro D, et intervallo DA, sive Dc,
+describatur, occursuram ipsi DB in aliquo puncto inter-
+medio K. Igitur, junctis AK, et CK, erit angulus AKC
+obtusus, quia major (ex 21. primi) angulo ABC, qui
+ponitur rectus Quare (ex praecedente) stabilietur hypo-
+thesis anguli obtusi. Quod erat secundo loco-demon-
+strandum.
+
+Sit tertio ΗΒ minor ipsa AH, ita ut propterea juncta
+DB minor sit ipsa AD, sive DC. Constat circumferen-
+tiam circuli, qui centro D, et intervallo DA, sive DC
+describatur, occursuram in aliquo puncto M ipsius DB
+
+ 
+

@@ -1,0 +1,47 @@
+and join DM. Ι should show that the join DM will be
+equal to DF, or DA.
+
+And in the first place indeed DM cannot be greater
+than DF. For otherwise the angle DMF would be less
+(Eu. Ι. 18) than the angle DFM, or its equal (P. Vm„
+in the hypothesis ol right angle) the angle XAH, or its
+vertical CAD. Wherefore (since the angles CAM, FMA
+are assumed equal, as being right) the remaining angle
+DMA would be greater than the remaining angle DAM.
+But this is absurd (against Eu. Ι. 18) if indeed DM is
+taken greater than DF or DA.
+
+— But neither will DM be less than this DF. Otherwise
+
+the angle DMF would be greater (Eu. Ι. 18) than the
+angle DFM, or its equal (P. VIII„ in hypothesis of right
+angle) the angle XAH, or its vertical CAD. Wherefore
+again, as above, the remaining angle [14] DMA will not
+be greater, but less than the remaining angle DAM. But
+this is absurd (against Eu. Ι. 18) if indeed DM is taken
+less than DF, or DA.
+
+It remains therefore, that the join DM is equal to
+DF, or DA. Wherefore in the triangle DAM (Eu. I. 5)
+the angles at the points A, and M will be equal; and there·
+fore in the triangles DBA, DBM, right-angled at B, the
+bases AB, ΒΜ will be equal (Eu. Ι. 26). This indeed
+was here our aim. ι
+
+Since therefore (assuming in AD produced the inter·
+val AF double the interval AD) the perpendicular ΡΜ
+
+, let fall on the transversal ΑΡ cuts off from ΑΡ toward
+
+P a base AM double ΑΒ, which the perpendicular let fall
+from the point D curs off ; it is manifest that this dupli·
+cation of the preceding interval can be so many times
+repeated, that thus in AD continued we attain to a cer-
+tain point T, from which the perpendicular let fall upon
+ΑΡ prolonged cuts off a certain AR greater than the
+finite ΑΡ however great.
+
+47
+
+ 
+

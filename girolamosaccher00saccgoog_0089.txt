@@ -1,0 +1,44 @@
+PROPOSITION XIII.
+
+If the straight ΧΑ (of desiynoted length however great)
+meetiny troo stroiyhts AD, XL, makes with them
+toward the some ports (fig. ll) interooi onylesXAD,
+AXL less thon two right angles: I soy, these two
+(even if neither of those onyies be a right angle)
+ot length witi mutnoily meet in some point on tte
+
+’ side toward those onyies, ond indeed ot o finite, or
+terminated distance, if either hypothesis holds, of
+' right onyie or of obtuse onyie.
+
+Pnoos. For one ol the said angles, as AXL suppose,
+will be acute.
+
+Accordingly from the vertex of the other angle is
+dropped the perpendicular ΑΡ on XL, which certainly
+
+D
+t “1.
+
+e
+Fig. 11.
+(because of Eu. Ι. 17) falls on theside of the acute angle
+AXL. Since therefore in the triangle APX, right-angled
+at P, the two acute angles PAX, ΡΧΑ, together are not
+less (P. IX.) than a right angle, in either hypothesis, of
+right angle, or of obtuse angle; il these two angles are
+taken away from the sum ol the given angles the then
+remaining angle PAD will be less than a right angle.
+Consequently we will be in the case oi the two preceding
+propositions, since it is obvious that one or the other
+hypothesis holds, either oi right angle, or of obtuse angle.
+Wherefore the straights AD, and PL, or XL, meet ’
+in some point at a finite, or terminated distance on the
+side noted, [17] as well under the one as under the other
+mentioned hypothesis.
+Quod erat demonstrandum.
+
+58
+
+ 
+

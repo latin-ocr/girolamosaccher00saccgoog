@@ -1,0 +1,48 @@
+AXB, and AXC produced through the point X in the
+same plane. Then with center X, and radius XB, or XC,
+describe the arc BMC, to any point of which M is drawn
+from the first point X the straight XM.
+
+I say first, under the assumed hypothesis also the line
+AXM will be [7⁴] a straight line,
+continued from the point A through L
+the point X.
+
+For if a line of this sort be not
+straight, there can be drawn (from
+Cor. 1. of the preceding lemma) a
+certain other line AM, which itseli
+is straight. But this either cuts in
+some point K one or the other oi
+those straights XB, XC; or it in·
+closes one or the other oi them, as suppose XB within
+the space bounded by AX, XM, and APLM.
+
+But the first ol these is manifestly contrary to the
+preceding lemma; because thus two lines supposed
+straight, one AXK, and the other ATK, would inclose
+aspace.
+
+But the second is at once convicted oi a like absurdity.
+
+For it is certain that the straight XB, ii produced on
+through Β, will at length meet this APLM in some point
+L; whence again two lines supposed straight, one AXBL,
+and the other APL‚ will incloseaspace. Butalike absurdity
+iollows, if we assume, that the straight XB, produced on
+through Β, at length meets in¹ some other point either the
+straight XM, or the straight XA.
+
+But irom this evidently follows that the line AXM
+is itsell, in the assumed hypothesis, the straight line
+drawn from the point A to the point M.
+
+Quod erat propositum.
+
+Ι say secondly‚ that the assumed straight AXB (inas-
+
+much as it is understood to retain its arbitrarycontinuation
+181
+
+ 
+

@@ -1,0 +1,36 @@
+PROPOSITIO XVI.
+
+¹ Ex quolibet quadrilatera ABCD, cujus quotuor simul orr-
+
+puri aequales sint, aut majores, aut minores quotuor
+rectis, stabilitur respective apportem out eupuli recti,
+out eupuli obtusi, aut eupuli acuti.
+
+Demonstratur. Jungatur AC. Non erunt (fig. 14.)
+tres simul anguli trianguli ΑΒΕ aequales, aut majores,
+aut minores duobus rectis, quin tres simul anguli trianguli
+
+' ADC sint ipsi etiam respective aequales, aut majores, aut
+
+minores duobus rectis; ne scilicet (ex praecedente) ab .
+
+uno illorum triangulorum stabiliatur una hypothesis, et
+ab altero altera, contra quintam, sextam, et septimam
+hujus. Hoc stante: Si quatuor simul anguli propositi
+quadrilateri aequales sint quatuor rectis, constat utrius·
+que modo dictorum triangulorum tres simul angulos
+aequales fore duobus rectis, atque ideo (ex praecedente)
+stabili-[2³lttun iri hypothesim anguli recti.
+
+Sin vero ejusdem quadrilateri quatuor simul anguli , ’
+majores sint, aut minores quatuor rectis, debebunt simili-
+ter illorum triangulorum tres simul anguli respective esse
+aut una majores, aut una minores duobus rectis. Quare
+ab illis triangulis stabilietur respective (ex praecedente)
+aut hypothesis anguli obtusi, aut hypothesis anguli acuti.
+
+Itaque ex quolibet quadrilatero, cujus quatuor simul
+anguli aequales sint, aut majores, aut minores quatuor
+
+ 
+

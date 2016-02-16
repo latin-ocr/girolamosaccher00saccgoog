@@ -1,0 +1,31 @@
+similia, quia non indigeo proportionalitate laterum circa
+
+angulos aequales, immo neque ulla ipsorum laterum de-
+terminata mensura. Solum igitur nolo triangula invicem
+aequilatera, quia ωηο sufficeret sola octava primi, sine
+ulla praesumptione. Itaque anguli ad puncta A, B, C,
+aequales sint angulis ad puncta D, E, F; sitque latus DE
+minus latere AB; assumaturque in AB portio AG aequalis
+ipsi DE, atque item in AC portio AH aequalis ipsi DF.
+Debere autem DF minorem esse ipsa AC inira declarabo.
+Tum ( juncta GH) constat (ex 4. primi) aequales fore
+[41] angulos ad puncta E, et F, ipsis AGH, AHG. Qua·
+propter; cum modo dicti anguli una cum aliis BGH, CHG,
+aequales sint (ex 13. primi) quatuor rectis; quatuor iti·
+dem rectis aequales erunt anguli ad puncta B, et C, una
+cum eisdem angulis BGH, CHG. Igitur quatuor simul
+anguli quadrilateri BGHC aequales erunt quatuor rectis3
+ac propterea (ex 16. hujus) stabilietur hypothesis anguli
+recti; et simul (ex 13. hujus) Pronunciatum Euclidaeum.
+
+Porro supposui latus DF, sive AH sumptum ipsi
+aequale, minus lore latere Ac. Si enim aequale foret, et
+sic punctum H caderet in punctum C ; ωηο angulus BCA
+aequalis foret (ex hypothesi) angulo EFD, sive GCA
+(qui ωηο fieret) totum parti; quod est absurdum. Sin
+vero majus foret, et sic juncta GH secaret in aliquo
+puncto ipsam BC; jam angulus ΑΕΒ externus aequalis
+foret ex hypothesi (contra 16. primi) angulo interno, et
+
+ 
+

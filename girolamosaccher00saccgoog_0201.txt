@@ -1,0 +1,42 @@
+But again AL cannot be the continuation of AN; be·
+cause otherwise in the quadrilateral NDKL we would
+have four right angles, against the hypothesis of acute
+angle.
+
+But neither can it cut DN produced in any exterior
+point H; because angle AHN (from Eu. 1. 16) would
+be acute, on account of the external angle AND supposed
+right; and therefore angle DHL would be obtuse, and so
+in the¹ quadrilateral DHLK we would have four angles,
+which taken together would be greater than four right
+angles, against the aforesaid hypothesis of acute angle.
+
+Therefore it follows that the angle BAN must be cut
+by this AL, and therefore cannot be declared the least of
+all, drawn under which AN has with ΒΧ in two distinct
+points a common perpendicular ND.
+
+Ι Quod erat secundo loco demonstrandum. Itaque con-
+stat etc.
+
+COROLLARY.
+
+But hence is permitted to obserye, that under a lesser
+angle BAL is obtained (in the hypothesis of acute angle) a
+common perpendicular LK, more remote indeed frorn the,
+base AB, as follows from the construction, but moreover
+less than the other nearer common perpendicular ND.
+which is obtained under a greater angle BAN.
+
+The reason of this latter is [67] because in the quadri-
+lateral LKDS the angle at the point S is acute in the
+aforesaid hypothesis, since the three remaining angles are
+supposed right.
+
+Wherefore (from Cor. I. to P. III.) the side LK
+
+will be less than the opposite side SD, and so much le'ss
+than the side ND.
+
+ 
+

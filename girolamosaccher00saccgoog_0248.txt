@@ -1,0 +1,34 @@
+tracta cadere tota debet versus partes convexas, atque ideo
+ipsa erit eJ'usdem curvae tangens. Quod erat demon·
+strandum. [8⁹]
+
+PROPOSITIO XXXVI.
+
+Si recta quaepiam XF (fip. 44.) mutum capulum efficiat
+cum quavis ordinata LF, non cadet punctum X extra
+cuvitutc'm curvae, uiri prius ipsa XF in aliquo pumto
+0 curvam secuerit.
+
+Demonstratur. Constat sumi possein ipsa XF punc·
+tum quoddam X adeo vicinum ipsi puncto F, ut juncta
+LX prius curvam secet in aliquo puncto S: caeterum ipsa
+XF vel non cadet tota extra cavitatem curvae, et sic habe·
+mus intentum; vel adeo non efficiet cum FL angulum
+acutum, ut magis censenda jam sit in unicam rectam cum
+altera LF coire. Itaque ex puncto S demittatur ad basim
+AB perpendicularis SP. Erit haec (ex 34. hujus) aequa·
+lis ipsi LF. Est autem SP (ex 19. primi) minor ipsa
+LS. Ergo etiam LF minor est eadem LS, ac propterea
+multo minor ipsa LX. Hinc in triangulo LXF acutus
+erit angulus in puncto X, quia minor (ex 18. primi) an-
+
+gulo LFX supposito acuto. Jam demittatur ad FX per· =
+
+pendicularis LT. Cadet haec (propter 17. primi) ad
+partes utriusque anguli acuti. Quare punctum T jacebit
+inter puncta X, et F. Deinde expuncto T demittatur ad
+
+basim AB perpendicularis TQ. Erit LF (propter angulum
+
+ 
+

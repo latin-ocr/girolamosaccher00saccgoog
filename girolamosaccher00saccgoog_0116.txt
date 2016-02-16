@@ -1,0 +1,37 @@
+absurdum est, in hypothesi anguli acuti; cum recta KH
+jungens aequalia perpendicula KC, HD, acutos angulos
+efficiat cum eisdem perpendiculis. Non ergo perpendicu-
+laris BD major est (in hypothesi anguli acuti) medietate
+perpendicularis MC. Quod erat demonstrandum.
+
+PROPOSITIO XXI.
+
+lisdem manentibus: Intellipantur in infinitum produci
+ipsae AM, et AC. Dico earundem distantiam majo-
+'rem fore (in utruque hypothesi aut anpuli recti, out
+anpuli acuti) qualibet ossipnobili finito loupitudine.
+[29] ·
+
+Demonstratur. In AM continuata sumatur AP dupla
+ipsius AM, demittaturque ad AC continuatam perpendi-
+cularis PN. Non erit (ex praecedente) in utravis prae-
+dicta hypothesi perpendicularis MC major medietate per·
+pendicularis PN. Igitur PN saltem erit dupla ipsius MC,
+prout MC saltem est dupla alterius BD. Atque ita sem-
+per, si in continuata AM sumatur dupla ipsius ΑΡ, ex
+. ejusque termino demittatur perpendicularis ad continua-
+tam AC. Scilicet perpendicularis, quae ex AM semper
+magis continuata demittetur ad continuatam Ac, multi·
+plex erit determinatae BD supra quemlibet finitum assig-
+nabilem numerum. Igitur praedictarum rectarum dis-
+tantia major erit (in utraque praedicta hypothesi) quali-
+bet assignabili finita longitudine. Quod erat demon-
+strandum.
+
+conomnmuu.
+
+Quoniam vero hypothesis anguli obtusi, quae unice
+obesse hic posset, demonstrata jam est absolute falsa;
+
+ 
+

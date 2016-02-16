@@ -1,0 +1,38 @@
+super recta MH perpendiculariter insistunt duae rectae
+AM, CH, poniturque ad junctam AC angulus rectus in A,
+non erit (utsupra) recta CH aequalis ipsi AM, cunr desit
+angulus rectus in C. Sed neque erit minor: caeterum;
+
+· si in HC protracta sumatur HL aequalis ipsi AM; aequa-
+
+les iorent (utsupra) anguli ad junctam AL. Hoc autem
+absurdum est. Nam angulus MAL est ex constructione
+maj0r supposito recto MAC; et angulus HLA est ex
+constructione internus, et oppositus, atque ideo minor
+(ex decimasexta primi) externo HCA‚ qui supponitur
+acutus. Restat igitur, ut CH, dum anguli ad junctam
+CD sint acuti, major sit ipsa AM, atque ideo prioris dupla
+CD major sit posterioris dupla AB. Quod erat tertio
+locodemonstandurn. ’
+
+Itaque constat junctam CD aequalem lore, aut mino·
+[⁴] rem, aut majorem ipsa AB, prout anguli ad eandem
+CD fuerint aut recti, aut obtusi, aut acuti. Quae erant
+demonstranda.
+
+COROLLARIUM Ι.
+
+Hinc in omni quadrilatero continente tres quidem an-
+gulos rectos, et unum obtusum, aut acutum, latera adja-
+centia illi angulo non recto minora sunt, alterum alteru,
+lateribus contrapositis, si ille angulus sit obtusus, majora
+’ autem, si sit acutus. Id enim demonstratum jam est de
+latere CH relate ad contrapositum latus AM; similique
+modo ostenditur de latere AC relate ad contrapositum
+latus MH. Cum enirn rectae AC, MH, perpendiculares
+sint ipsi AM, nequeunt (ex prima hujus) esse invicem
+aequales, propter inaequales angulos ad Junctam CH.
+Sed neque (in hypothesi anguli obtusi in C) potest quae·
+
+ 
+

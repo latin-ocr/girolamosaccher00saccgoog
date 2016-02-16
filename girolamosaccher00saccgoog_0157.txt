@@ -1,0 +1,42 @@
+SCHOLION.
+
+I see indeed it may here be asked in what way that
+oommon perpendicular can be shown, when any straight
+PFHD (fig. 28) meeting two AX, ΒΧ in points F, and
+H, makes toward the same parts two internal angles
+AHF, BFH, not themselves indeed right, but neverthe·
+less [47] together equal to two rights. But behold that
+common perpendicular geometrically demonstrated.
+
+ὓ
+Art ll
+
+R h R
+
+Fig. 28.
+
+FH being biseeted in M, perpendiculars MK, ML
+are let fall to AX and BX. The angle MFL will be equal
+(Eu. Ι. 13) to the angle MHK, which indeed is assumed
+to make up two right angles with the angle BFH. More·
+over the angles at the points K, and L are right; and again
+
+MF ,ΜΗ are equal. Thereiore (Eu. I. 26) so are the
+angles FML, HMK equal. Wherefore the angle HMK
+makes two right angles with the angle HML, since with
+this the angle FML (Eu. I. 13) makes two right angles.
+Thereiore (Eu. Ι. 14) KML will be in one continuous
+straight line, consequently a common perpendicular to
+the aforesaid straights AX, BX.
+Quod erat etc.
+
+COROLLARY 11.
+
+But again I am able hence to show that those two
+straights AX, ΒΧ, meeting with which the straight PFHD
+makes with the said AX, ΒΧ either two intemal angles
+
+toward the same parts equal to two right angles, or
+
+ 
+

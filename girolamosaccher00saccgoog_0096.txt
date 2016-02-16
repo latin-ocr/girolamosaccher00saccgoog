@@ -1,0 +1,38 @@
+innititur Euclides post vigesimamoctavam sui Libri primi,
+manifestum est omnibus Geometris, solam hypothesim
+anguli recti esse veram, nec ullum relinqui locum hypo-
+thesi anguli obtusi. Igitur hypothesis anguli obtusi est
+absolute falsa, quia se ipsam destruit. Quod erat demon·
+strandum. [20]
+
+Aliter, ac magis immediate. Quandoquidem ex hypo-
+thesi anguli obtusi demonstravimus (in nona hujus) duos
+(fig. ll.) acutos angulos trianguli APX, rectanguli in P,
+
+majores esse uno reeto; constat talem assumi posse acu-
+tum angulum PAD, qui simul cum praedictis duobus
+acutis angulis duos rectos efficiat. Tunc autem recta AD
+deberet (ex praecedente, juxta hypothesim anguli obtusi)
+aliquando concurrere cum ipsa PL, sive XL, respectu
+habito ad secantem, sive incidentem AP; quod est mani-
+
+iestum absurdum contra decimamseptimam primi, si re-
+spicias ad secantem, sive incidentem AX.
+
+PROPOSITIO XV.
+
+Ex quolibet triangula ΑΒΕ, cujus tres simul anguli (fig.
+13.) aequales sint, aut majores, aut minores duobus
+rectis, stabilitur respective hypothesis aut anguli
+recti, aut anguli obtusi, aut anguli ocuti
+
+Demonstratur. Nam duo saltem illius trianguli an·
+guli, ut puta ad puncta A, et C, acuti erunt, propter deci·
+mamseptimam primi. Quare perpendicularis, ex apice
+reliqui anguli B ad ipsam AC demissa, secabit ipsam Ac
+(propter eandem decimamseptimam primi) in aliquo
+puncto intermedio D. Si ergo tres anguli ipsius trianguli
+ΑΒΕ supponantur aequales duobus rectis, constat aequales
+
+ 
+

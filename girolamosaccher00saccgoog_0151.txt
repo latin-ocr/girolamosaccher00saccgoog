@@ -1,0 +1,49 @@
+PRooF. For ii AB, CD are equal, it follows (from
+Ρ. ΙΙ.) that the straight LK, by which these two AC and
+BD are bisected, will be to them a common perpendicular.
+But if· either be the greater, as suppose AB; let fall to ·
+BD (according to Eu. Ι. 12) from any point L ol AC
+the perpendicular LK, meeting the other BD in K.
+
+But it will meet it in some point K existing between
+the points B and D; otherwise (contrary to Eu. Ι. 17)
+the perpendicular LK would cut either AB, or CD, per-
+pendicular to the same BD. If then the angles at the
+
+point L are not right, one of them will be acute and the
+
+, other obtuse.
+
+Let the obtuse be toward the point C. But now LK
+is understood so to proceed toward ΑΒ, that it always
+stands at right angles to BD, and likewise opportunely
+increased‚ or diminished, in some point of it cuts the
+straight AC. It follows that the angles at the intersection
+points with AC cannot all be obtuse toward the parts of
+the point C, lest at length in that point Α, where the
+straight LK is congruent with the straight AB, the angle
+at the point A toward the parts of the point C should be
+obtuse, when toward these parts it is by hypothesis acute.
+
+Since therefore the angle at the point L of this LK .
+is by hypothesis obtuse toward the parts of the point C,
+
+’ the straight LK will not change over in this motion sd as
+
+to make in some point of it with the straight AC an angle
+acute toward the parts ol the aforesaid point C, unless
+previously it changes over so as to make in some point of it
+with this AC an angle right toward the parts of this same
+point C.
+
+Therefore between the points A, and L will be some
+one intermediate point H, in which HK perpendicular to
+this BD is also perpendicular to the other AC.
+
+, In a similar manner is shown to be present a certain
+XK between LK, CD, which is perpendicular both to the
+
+¹15
+
+ 
+

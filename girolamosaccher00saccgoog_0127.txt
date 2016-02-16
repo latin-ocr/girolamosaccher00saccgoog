@@ -1,0 +1,44 @@
+must be used for farther progress after the new definition
+of parallels.
+
+But behold this other postulate in Clavius (to whom
+Borelli himself expressly refers) in the scholion after
+Prop. 28 of the First Book: If a straight line, as sup
+pose BD upon another straight, as suppose BA, moves
+transversely making with it at its extremity B always
+right angles, its other extremity D describes a linc also
+straight DC, until this BD shall have come to congruence
+with the other equal sect Ac. I acknowledge the fitness of
+the postulate, that thence a transit may be made to demon·
+strating that other Euclidean postulate, upon which cer-
+tainly at length must be supported all remaining geom-
+etry. For Clavius had previously declared; that a line, oi
+which all points are equally distant from a certain as·
+sumed straight AB; as assuredly is (from the hypothesis
+of the aforesaid construction) the line DC; this line also
+must be straight ; because certainly it will be of such sort,
+that all its intermediate points lie exaequo (such is the
+definition of a straight line) between its extreme points
+D, and C ; lie ex aequa, say I, since all are equally distant
+from this assumed straight ΑΒ, truly by as much as the
+length is of this BD, or AC. In this place Clavius intro·
+duces the example of the circular line, of which we shall
+speak more conveniently below; where I shall show the
+clearest disparity in this regard [³4] between the straight
+
+‘line and circle.
+
+But meanwhile I say it is not sufficiently evident‚
+whether the line described by this point D is rather the
+straight DC than a certain curve DGC either convertor
+concave toward the side of this BA.
+
+For ii from the point F bisecting this BA a perpen-
+dicular is supposed erected, which meets the straight DC
+in E, and the aforesaid curves in G, and G, it follows
+
+surely (from P. ΙΙ.) that the angles at the point E will ἱ
+,ι
+
+ 
+

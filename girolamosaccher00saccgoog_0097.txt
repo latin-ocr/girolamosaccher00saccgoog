@@ -1,0 +1,47 @@
+But this assumption holding good, on which Euclid
+supports himself after 1. 28, it is manifest to all geometers
+that the hypothesis of right angle alone is true, nor any
+place left for the hypothesis of obtuse angle. Therefore
+the hypothesis of obtuse angle is absolutely false, because
+it destroys itself.
+
+Quod erat demonstrandum. [20]
+
+Otherwise, and more immediately. Since from the
+hypothesis of obtuse angle we have proved (P. ΙΧ.) that
+two (fig. 11) acute angles of the triangle APX, right·
+angled at P, are greater than one right angle3 it follows
+
+that an acute angle PAD may be assumed such, that
+together with the aforesaid two acute angles it makes
+up two right angles. But then the straight AD must (by
+
+the preceding proposition, joined to the hypothesis of
+obtuse angle) at length meet with this PL, or XL, regard
+being had to the secant, or incident AP; which is mani-
+
+festly absurd (against Eu. I. 17) if we regard the secant,
+or incident AX.
+
+PROPOSITION XV.
+
+By ony trionple ΑΒΕ, of which the three onyles (fig. 13)
+ore equol to, or preater, or less thon two riyht on·
+yles, is established respectively
+
+the hypothesis of right anule, w
+- or obtuse ohyle, or acute anule. ὅ ¹
+PRoos. For anyhow two angles AX
+of this triangle, as suppose at the
+points A and C, will be acute (Eu. Α ,
+
+Ι. 17). Wherefore the perpendic· Εἰς. 13.
+ular, let fall from the apex of the
+remaining angle B upon AC, will cut AC (Eu. Ι. 17)
+in some intennediate point D.
+If therefore the three angles of this triangle ΑΒΕ
+are supposed equal to two right angles, it follows that
+61
+
+ 
+

@@ -1,0 +1,35 @@
+EUCLID FREED OF EVERY FLECK.
+
+BOOK Ι.
+
+IN wmcn 18 PROVED: ANY Two COPLANAR STRAIGHT
+LINES, FALLING UPON WHICH ANY STRAIGHT MAKES
+TOWARD THE SAME PARTS Two INTERNAL ANGLES
+LESS THAN TWO RIGHT ANGLES, AT LENGTH MEET
+EACH OTHER TOWARD THOSE PARTS, ΙΙΙ INFINITELY
+PRODUCED.
+
+PART 1.
+
+PROPOSITION Ι.
+
+Is two equol stroiohts [sects] (fio. 1) Ac, BD, make
+wito the stroioht ΑΒ onoles equo! toward the some
+ports: I say thot the onoles ol c
+
+the join CD will be mutuolly = VD
+
+equol.
+
+PRooF. Join AD, CB. Then a
+consider the triangles CAR, DBA. Α
+
+It follows (Eu. 1. 4) that the bases mg· 1· Β
+CB, AD will be equal.
+Then consider the triangles ACD, BDC. It follows
+
+(Eu. Ι. 8) that the angles ACD, BDC will be equal.
+Quod erat demonstrandum.
+
+ 
+

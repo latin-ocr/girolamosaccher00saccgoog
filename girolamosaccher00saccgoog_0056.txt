@@ -1,0 +1,33 @@
+PROPOSITIO 11.
+
+Maneate uniformi quadrilatera ABCD, latera ΑΒ, CD,
+bifariam dividantur (fia. 2.) in punctis M, rt H. Di- ·
+[2] ca angulos ad junctam ΜΗ fore hincinde rectas.
+
+Demonstratur. Jungantur ΑΗ, ΒΗ, atque item CM,
+DM. Quoniam in eo quadrilatera anguli A, et B positi
+sunt aequales atque item (ex praecedente) aequales sunt
+anguli C, et D; constat ex quarta primi (cum alias nota
+sit aequalitas laterum) aequales fore in triangulis CAM,
+DBM, bases CM, DM; atque item, in triangulis ACH,
+BDH, bases AH, BH. Quare3 collatis inter se triangulis
+CHM, DHM, ac rursum inter se triangulis AMH, BMH;
+constabit (ex octava primi) aequales invicem iore, atque
+ideo rectos angulos hinc inde ad puncta M, et H. Quod
+erat demonstrandum.
+
+Puoeosmo 111.
+Si duae aequales rectae (fia. 3.) Ac, BD, perpendicula
+
+riter insistant cuivis rectae ΑΒ : Dico junctam CD Δ
+
+aequalem fare, aut minorent, aut maiorem ipra AB,
+prout angutiati eandem CD, fuerint aut recti, aut
+obtusi, aut acuti.
+
+Demonstratur prima pars. Existente recto utroque
+angulo C, et D; sit, si fieri potest, alterutra ipsarum, ut
+DC, major altera ΒΑ. Sumatur in DC portio DK aequa-
+
+ 
+

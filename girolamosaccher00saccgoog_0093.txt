@@ -1,0 +1,50 @@
+suppose, one right, and the other less than a right by as
+much as two degrees, or, if you please, by less; who is
+so devoid of geometry that he ¹could not immediately
+show the thing itself demonstratively?
+
+For suppose (fig. 12) given
+any angle BAP, as, say, 88 de· ¹⁵
+grees. Il therefore from any
+
+pointBoi this AB, is let fall on NR— D
+the base ΑΡ (Eu. Ι. 12) the
+
+perpendicular BP, it holds cer-
+
+tainly that in this triangle ΑΒΡ uA
+would be exhibited demonstra·
+
+tively the desired concurrence
+
+at this point B.
+
+But if the other angle at the base is postulated, and
+is less than a right, as, suppose, 84 degrees, which indeed
+the given angle K represents: then (Eu. Ι. 23) one
+would be able to make toward the parts of the straight
+AB an equa] angle APD, PD meeting this AB in D,
+some intermediate point of it. Wherefore the desired
+concourse is again obtained demonstratively in this
+point D. '
+
+But finally: if the other angle is postulated obtuse,
+but yet less than 92 degrees, lest with the other given
+angle BAP it should make up two rights: this may be
+represented in a certain angle R of 91 degrees. It is to
+be shown, that there is some point X of this ΑΡ, to which
+the join ΒΧ makes an angle BXA equal to the given
+angle R of 91 degrees: so that therefore under a certain
+cutting straight AX the desired meeting in the point ΙΒ
+may be obtained.
+
+Now we may proceed thus.
+
+PA being produced to any point H, since the external
+angle ΒΑΗ is (Eu. Ι. 13) 92 degrees, because the interior “
+angle BAP is by hypothesis 88 degrees3 and again (Eu
+
+ar
+
+ 
+

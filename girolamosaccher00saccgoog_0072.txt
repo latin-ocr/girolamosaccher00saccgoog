@@ -1,0 +1,36 @@
+constituto ; curn ex una parte angulus BXH sit obtusus;
+et ex altera, si jungatur XM, angulus ΒΧΜ (ex decima·
+septima primi) sit acutus. Tum ver0; quoniam quadri-
+laterum XBMP tres continet angulos rectos ex jam notis,
+et unum obtusum (ex decimasexta primi) in puncto P,
+quia est externus relate ad internum, et oppositum rec-
+tum angulum in puncto H trianguli PHX ; erit latus XP
+(ex Cor. I. post tertiam hujus) minus contraposito ΒΜ.
+Quam assumpta in ΒΜ portione BF aequali ipsi XP;
+, erunt (ex prima hujus) anguli ad junctam PF invicem
+aequales, nimirum obtusi, cum angulus BFP (ex deeima-
+sexta primi) sit obtusus propter rectum angulum inter-
+num, et oppositum FMP. Igitur sub qualibet basi ΒΧ
+consistit hypothesis anguli obtusi.
+
+Consistet autem, ut supra, eadem hypthesis sub eadem
+basi ΒΧ, quamvis aequalia perpendicula ad libitum auge-
+antur, ant minuantur. Itaque constat hypothesim anguli
+obtusi, si vel in uno casu sit vera, semper in omni casu
+illam solam esse veram. Quod erat demonstrandum.
+
+PROPOSITIO VII.
+
+H ypothesis anpulr‘ ocuti, rivel in uno casu est vero, sem-
+per in omni caru illo sola est vero.
+
+Demonstratur facillime. Si enim hypothesis anguli
+acuti permittat aliquem casum alterutrius hypothesis aut
+anguli recti, aut anguli obtusi, jam (ex duabus praeceden-
+[1⁰ltibus) nullus relinquetur locus ipsi hypothesi anguli
+’ acuti; quod est absurdum. Itaque hypothesis anguli acuti,
+si vel in uno casu est vera, semper in omni casu illa sola
+est vera. Quod erat demonstrandum. ’
+
+ 
+

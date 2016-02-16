@@ -1,0 +1,42 @@
+superpositionem quadrilateri ABDC super quadrilaterum
+CDXR, adhibita communi basi CD. Deinde elegantius
+sic proceditur. Jungantur AD, RD. Constat (ex quarta
+primi) aequales fore in triangulis ACD, RCD, bases AD,
+RD, atque item angulos CDA, CDR, ac propterea aequa-
+= les reliquos ad unum rectum, nimirum ADB, RDX.
+Quare rursum (ex eadem quarta primi) aequalis erit, in
+triangulis ADB, RDX, basis AB, basi RX. Igitur (ex
+praecedente) anguli ad junctam RX erunt recti, ac prop-
+terea persistemus in eadem hypothesi anguli recti.
+
+Quoniam vero augeri similiter potest longitudo per·
+pendiculorum in infinitum, sub eadem basi AB, consis-
+tente semper hypothesi anguli recti, demonstrandum est
+eandem hypothesim semper mansuram in casu cujusvis
+imminutionis eorundem perpendiculorum; quod quidem
+ita evincitur. [7]
+
+Sumantur in AR, et ΒΧ duo quaelibet aequalia per·
+pendicula AL, BK, jungaturque LK. Si anguli ad junc-
+tam LK recti non sint, erunt tamen (ex prima hujus) in-
+
+vicem aequales Erunt igiturex una parte, ut puta ver·
+sus AB obtusi, et versus RX acuti, ut nimirum anguli
+hinc inde ad utrunque illorum punctorum aequales sint
+
+(ex decimatertia primi) duobus rectis. Constat autem
+aequalia etiam invicem esse perpendicula LR, KX, ipsi
+RX insistentia. Igitur (ex tertia hujus) erit LK major
+quidem contraposita RX, et minor contraposita AB.
+
+Hoc autem absurdum est; cum AB, et RX ostensae
+sint aequales. Non ergo mutabitur hypothesis anguli
+recti sub quacunque imminutione perpendiculorum, dum
+consistat semel posita basis AB.
+
+Sed neque immutabitur hypothesis anguli recti, sub
+quacunque imminutione, aut majori amplitudine basis;
+cum manifestum sit considerari posse ut basim quodvis
+
+ 
+

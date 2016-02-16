@@ -1,0 +1,35 @@
+lis ipsi BA, jungaturque AK. Quoniam igitur super BD
+perpendiculariter insistunt aequales rectae BA, DK,
+aequales erunt (ex prima hujus) anguli BAK, DKA. Hoc
+autem absurdum est; cum angulus BAK sit ex construc-
+tione minor supposito recto BAC; et angulus DKA sit
+ex constructione externus atque ideo (ex decimasexta
+primi) major interno, et opposito DCA, qui supponitur
+rectus. Non ergo alterutra praedictarum rectarum, DC,
+BA, est altera major, dum anguli ad junctam CD sint
+recti3 ac propterea aequales invicem sunt. Quod erat
+primo loco demonstrandum. [³]
+
+Demonstratur secunda pars. Si autem obtusi fuerint
+anguli ad junctam CD, dividantur bifariam AB, et CD,
+in punctis M, et H, jungaturque MH. Quoniam ergo su-
+per recta ΜΗ perpendiculariter insistunt (ex praece-
+dente) duae rectae AM, CH, poniturque ad junctam AC
+angulus rectus in A, non erit (ex prima hujus) recta CH
+aequalis ipsi AM, cum desit angulus rectus in C. Sed
+neque erit major: caeterum sumpta in HC portione KH
+aequali ipsi AM, aequales iorent (ex prima hujus) anguli
+ad junctam AK. Hoc autem absurdum est, ut supra.
+Nam angulus MAK est minor recto; et angulus HKA est
+(ex decimasexta primi) major obtus0, qualis supponitur
+internus et oppositus HCA. Restat igitur, ut CH, dum
+anguli ad junctam CD ponantur obtusi, minor sit ipsa
+AM; ac propterea prioris dupla CD minor sit posterioris
+dupla AB. Quod erat secundo loco demonstrandum.
+
+Demonstratur tertia pars. Tandem vero, si acuti iue-
+rint anguli ad junctam CD, ducta pariiormiter (ex prae·
+cedente) perpendiculari MH, sic proceditur. Quoniam
+
+ 
+

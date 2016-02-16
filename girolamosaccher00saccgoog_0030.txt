@@ -1,0 +1,51 @@
+Therefore the product ol A, B is equal to the product
+of E, G. ,-
+
+Whence, as A to E, so is G toB [VII. 19].
+
+But A, E are prime; primes are also least [VII. 21],
+and do equally measure those that have the same ratio as
+they, the antecedent the antecedent and the consequent the
+consequent [VII. 201:
+
+Wherelore E measures B.
+
+Let it measure it by H; then E multiplying H produces
+B. But A has also by multiplying itseli made B [IX. 8] ;
+therefore the produet of E, H is equal to the productos
+A into itself.
+
+Therefore, as E to A, so is A to H [VII. 19].
+
+But A, E are prime; primes are also least [Vll. 21], and ’
+the least measure those which have the same ratio the same
+number of times, the antecedent the antecedent and the
+consequent the consequent [VII. 20] ; therefore E measures
+A, as antecedent antecedent. Q. E. D.
+
+The comment ol Clavius is:
+
+“Est autem res admirabilis huius propositionis demon-
+stratio Nam ex eo quod b dicatur non metiri ipsum a,
+ostendit, demonstratione affirmativa, b ipsum a metiti, quod -
+videtur fieri non posse. Nam si quis demonstrare instituat
+Socratem esse album, ex eo quod non est albus, paradoxum
+aliquid et inopinatum in medio videatur afferre: cui tamen
+non absimile quid factum hic est in numeris ab Euclide, et
+in aliis nonnullis propositionibus quae sequuntur.”
+
+Now the edition of Clavius was the Euclid recommended
+by T. Ceva to Saccheri. .
+
+This recondite legerdemain ol logie, so striking to Cardan
+and Clavius, seized with a more permanent fascination the
+adroit mind ol the subtle Saccheri. Itis the dominant note
+of the Lopica demonstrativo, and thence adventures the
+quest of the holy grail, Euclid's Parallel Postulate.
+
+This type ol reasoning consists in assuming as hypothesis
+the falsity of the very proposition to be proved, and in show-
+ing how also when taking this hypothesis as point of de-
+
+ 
+

@@ -1,0 +1,47 @@
+metric, which Ι think the most efficacious and most simple
+of all, inasmuch as it rests upon an accessible, most easy,
+and most convenient experiment. ·
+
+For if in a circle, whose center is Μ
+D, are fitted (fig. 22) three straight
+' lines CB, BL, LA, each equal to the Α c
+
+radius DC, auditis ascertained that 125222.
+
+the join AC goes through the center
+D, this will be sufficient for demonstrating the assertion.
+
+For, DB, DL being joined, we will have three tri-
+angles, which (from Eu. I. 8 and 5) not only will be
+equiangular to one another, but also singly for themselves.
+Therefore since the three angles together at the point D,
+indeed ADL, LDB, BDC are equal (by Eu. I. 13) to
+two right angles; also the three angles together of each
+of these triangles will be equal to two right angles, as
+suppose of 'the triangle BDC. Wherefore (from P. XV.)
+will be established hence the hypothesis of right angle;
+and consequently (from the already admitted P. XIII.)
+that postulate will be demonstrated.
+
+But if, before all attempt whether at demonstration
+or at graphio exhibition, one wishes to compare inferre
+those two postulates I grant indeed the Euclidean may
+⁴ appear more obscure or even liable to objection. But
+after thegraphic exhibition which I reserve for Scholion
+IV following, it will appear vice versa that the Euclidean
+postulate indeed can retain the dignity and name of postu·
+late, but the other ought rather to be reckoned among the
+theorems. .
+
+But here 1 must explain (as a little above I have prom·
+ised Ι was about to do) the· manifest disparity in this
+relation between the circular line and the straight line.
+Now the disparity arises from this; that a. line is called
+
+straight in reference to itself ; but is called circular, as
+suppose (fig. 2³) MDHNM‚ notin reference to itself,
+
+⁹7
+
+ 
+

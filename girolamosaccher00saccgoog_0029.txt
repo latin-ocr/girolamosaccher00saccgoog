@@ -1,0 +1,54 @@
+EUCLID'S ELEMENTS‚ BOOK IX, PROPOSITION 12.
+
+lf there be horo mouy numbers soever iu continued propor-
+tiou from uuity: Theu whatever prime numbers measure
+the lost, the some uult also measure thot uext oster the
+um‘t.
+
+Let there be as many numbers as we please‚ A, Β, C, D
+continual proportionals from unity3 I say whatever prime
+
+· numbers measure D will measure A also.
+
+Unity A B C D
+,For example, 1 4 16 64 256
+E H G F
+
+2 8 32 128
+
+For let some prime number E measure D; I say E
+measures A.
+
+For suppose it does not.
+
+Now E is prime, and aprime number is prime to any it
+does not measure [VII. 29]; therefore E, A are prime to
+one another.
+
+And since E mensures D, let it measure it by the units
+in F ; therefore E multiplying F produces D.
+
+Again‚ since A measures D by the units in C [IX. 11 and
+Porism],⁶ therefore A multiplying C produces D. But E
+has also by multiplying F made D; whence the product ot
+A, C is equal to the product of E, F.
+
+Therefore, as A to E, so is F to C [VII. 19].
+
+But Α, Ε are prime; primes are also least [VII. 21]‚·
+and the least measure those which have the same ratio the
+same number oi times, the antecedent the antecedent and
+the consequent the consequent [VII. 20] ; therefore E meas-
+ures C.
+
+Let it measure it by G; then E multiplying G produces
+{brigg A has also by multiplying B made C [IX. ll 'and
+
+⁸ x¹¹¹÷¹ = κ’ x'.
+“‘Numbers prime to one another are the least oi those which
+have the same ratio as they.''
+
+:ruti
+
+ 
+

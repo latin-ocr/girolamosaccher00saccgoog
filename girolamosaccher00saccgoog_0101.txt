@@ -1,0 +1,46 @@
+But finally. If the three angles of the proposed
+triangle ABC are taken less than two right angles, now
+of the two triangles ADB, CDB, all the angles together
+will be less than four right angles, because of the two
+additional right angles at the point D.
+
+This holding good: now of neither of the said tri-
+angles will the three angles together be equal to, or
+greater than two right angles; for thus vice versa of the
+other triangle the three angles together would be less
+than two right angles.
+
+Wherefore (P. IX.) from one triangle indeed would
+be established the hypothesis either of right angle or of
+obtuse angle, and from the other the hypothesis of acute
+angle ; which is contrary to Pr'opp. V, VI, and VII.
+
+Therefore the three angles together of either of the
+aforesaid triangles will be less than two right angles ; and
+
+, therefore (P. IX.) [22] is established the hypothesis of
+
+acute angle.
+Quod erat tertio loco demonstrandum.
+Accordingly by any triangle ABC, of which the three
+
+. angles are together equal to, or greater, or less than two
+
+right angles, is established respectively the hypothesis of
+right angle, or obtuse angle, or acute angle.
+Quod erat propositum.
+
+COROLLARY.
+
+Hence, any one side of any proposed triangle being
+produced, as suppose AB to H ; the external angle HBC
+will be (Eu. I. 13) equal to, or less, or greater than the
+remaining internal and opposite angles together at the
+
+points A, and C, according as is true the hypothesis of
+
+right angle, or obtuse angle, or acute angle. And in·
+versely.
+
+ 
+

@@ -1,0 +1,50 @@
+Says Heath: “‘Mill’s account of the true distinction be·
+tween real and nomino! definitions had been fully antici-
+pated by Saccheri.''
+
+In his Lopica demonstrativo Saccheri lays down the
+clear distinction between what he calls definitiones quid
+nominis or nominales, and definitiones quid rei or r'eoles,
+namely, that the former are only intended to explain the
+meaning that is to be attached to a given term, whereas the
+latter, besides declaring the meaning ol a word, affirm at
+the same time the existence oi the thing defined or, in
+geometry, the possibility oi constructing it. The definitio
+quid nominis becomes a definitio quid rei “by means ol a
+postulate, or when we come to the question whether the
+thing exists and it is answered affinnatively.''²
+
+Definitiones quid nominis are in themselves quite arbi·
+trary, and neither require nor are capable oi prooi ; they
+are merely provisional‚ and are only intended to be turned
+as quickly as possible into definitiones quid rei, either
+
+1. by means of a postulate in which it is asserted ot
+conceded that what is defined exists or can be constructed,
+e. g., in the case oi straight lines and circlos, to which
+Euclid's first three postulates refer, or
+¹ 2. by means ol a demonstration reducing the construc-
+tion of the figure defined to the successive carrying-out of
+a certain number oi those elementary constructions‚ the
+possibility ol which is postulatori. Thus definitiones quid rci
+are in general obtained as the result of a series of demon-
+strations.
+
+Saccheri gives as an instance the construction ol a square
+in Euclid Ι. 46.
+
+Suppose that it is objected that Euclid had no right to
+define a square, as he does at the beginning oi the Book,
+when it was not certain that such a figure exists; the ob
+jection, he says, could only have force if, before proving
+and making the construction, Euclid had assumed the afore-
+
+²“Definitio qvid nominis nata est evadere definitio quic rei per
+
+postulatum vel dum venitur ad quaestionem on cst et respondetur
+affirmative.” ibid.
+
+xviii
+
+ 
+

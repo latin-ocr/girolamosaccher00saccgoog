@@ -1,0 +1,36 @@
+BAH angulo recto in A; ac rursum in duobus illis trian-
+gulis adjacent eidem lateri ΗΒ aequales anguli, qui sunt
+in priore quidem triangulo angulus BHD‚ et in posteriore
+angulus HBA; erit etiam (ex 26. primi) reliquus angulus
+HBD in priore triangulo aequalis reliquo angulo BHA in
+posteriore triangulo. Quare integer angulus DBA aequa·
+lis erit integro angulo AHD.
+
+Jam vero: non erit uterque praedictorum aequalium
+angulorum obtusus, ne incidamus (ex praecedente) in
+unum casum jam reprobatae hypothesis anguli obtusi. Sed
+neque erit rectus, ne incidamus (ex eadem praecedente)
+in unum casum pro hypothesi anguli recti, qui nullum
+(ex 5. hujus) relinqueret locum hypothesi anguli acuti.
+Uterque igitur illorum angulorum erit acutus. Hoc stante:
+Quod recta BD protracta occurrere nequeat in quodam
+puncto K ipsi AH ad easdem partes productae, ex eo
+demonstratur; quia in triangulo KDH, praeter angulum
+rectum in D, adesset angulus obtusus in H, cum angulus
+AHD, in praedicta hypothesi anguli acuti, demonstratus
+sit acutus. Hoc autem absurdum est, contra 17. primi.
+Non ergo subsistere potest in ea hypothesi, ut quaevis BD,
+efficiens cum una, ut libet parva recta AB, quemlibet an·
+gulum acutum versus partes ipsius AH, occursura tan-
+dem sit ad finitam, seu terminatam distantiam, ipsi AH
+
+· productae. Quod erat demonstrandum.
+
+Aliter idem, ac facilius Insistant uni cuidam quan-
+tumlibet parvae rectae AB (fig. 16.) duae perpendiculares
+[25] AK, ΒΜ. Demittatur ad AK ex aliquo puncto M
+ipsius ΒΜ perpendicularis MH, jungaturque ΒΗ. Con·
+stat acutum iore angulum BHM. Est etiam (ex praece·
+
+ 
+

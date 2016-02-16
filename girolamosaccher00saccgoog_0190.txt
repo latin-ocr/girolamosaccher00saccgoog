@@ -1,0 +1,34 @@
+'sit (ex 19. primi) ipsa QS, et sic multo major ipsa BT,
+
+sive CN; sumatur in FS portio IS aequalis ipsi CN, et
+ex puncto I erigatur ad FS perpendicularis IR occurrens
+in puncto R ipsi AS. Cadet autem punctum R inter
+puncta A, et S: si enim caderet in aliquod punctum ipsius
+AF, haberemus in eodem triangulo (contra 17. primi)
+duos angulos majores duobus rectis, cum angulus ad
+punctum F versus partes puncti A ostensus jam sit ob-
+tusus.
+
+Post tantum apparatum sic conclude Quandoquidem
+in quadrilatero AOIR recti sunt anguli ad puncta O, et I;
+et est acutus angulus (ex 17. primi) ad punctum A, prop
+ter rectum angulum AOS; ac rursum est obtusus (ex 16.
+[62] ejusdem primi) angulus IRA, cum rectus sit angulus
+RIS: consequens tandem est (ex Cor. II. post 3. hujus)
+ut latus AO majus sit latere IR. At (juncta OQ) latus
+AQ majus est (ex 18. primi) latere AO propter angulum
+obtusum in Ο, cum angulus AOS factus sit rectus. Igi-
+tur reeta AQ multo major erit recta IR, sive (ex 26.
+primi) recta MC, et sic multo major recta AB, pars toto,
+quod est absurdum.
+
+Non igitur ullus assignari potest angulus MNC, quo
+semper major sit, aut saltem non minor excessus cujusvis
+ex praedictis angulis obtusis supra angulum rectum.
+Quare anguli illi obtusi, magr's ac magis distantes ab eo
+puncto A, semper magis sine ullo certo limite accedent ad
+' aequalitatem cum angulo recto. Quod erat postremo loco
+demonstrandum.
+
+ 
+

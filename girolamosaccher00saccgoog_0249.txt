@@ -1,0 +1,50 @@
+so NF produced must fall wholly toward the convex
+parts, and so it will be tangent to this curve.
+Quod erat demonstrandum. [⁸⁹]
+
+PROPOSITION XXXVI.
+
+is ouy stroipht XF (fip. 44) makes ou acute duple with
+any ordinate LF, the point X does uot foll without
+the covitp of the curve, unless previously XF hos
+cut the curveiu some poiut O.
+
+Pnoos. Il is sure that some point X may be assumed
+in XF so near to the point F, that the join LX previously
+cuts the curve in some point S:
+otheruise XF either does not fall ‘l ΟΔ·-
+
+wholly without the cavity of the clflf'k
+
+curve, and so we have our asser·
+tion; or so far is it from mal<-
+ing with FL an acute angle, that
+now rather it must be supposed ,
+to combine with LF in one
+straight.
+
+Accordingly from the point S let fall to the base AB
+the perpendicular SP. This will be (from P. XXXIV.)
+equal to LF.
+
+But SP is (from Eu. Ι. 19) less than LS. Therefore
+also LF is less than LS, and consequently much less than
+
+· LX. Hence in triangle LXF the angle at point X will
+
+be acute, because less ( from Eu. I. 18) than the angle
+LFX supposed acute.
+
+Now let fall to FX the perpendicular LT. This will fall
+(because of Eu I. 17) toward the parts of each acute
+
+angle. Wherefore point T will lie between points X,
+and F.
+
+T hen from the point T let fall to the base AB the
+perpendicular TQ. LF will be (because of the right
+
+2¹3
+
+ 
+

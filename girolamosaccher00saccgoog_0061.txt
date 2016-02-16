@@ -1,0 +1,48 @@
+the straight MH stand perpendicular two straights AM,
+CH, and at the join AC is a right angle at A, the straight
+CH will not be equal to this AM (as above), since the
+angle at C is not right. But neither will it be less:
+otherwise, if in HC produced HL is taken equal to this
+AM, the angles at the join AL will be (as above) equal.
+
+But this is absurd. For the angle MAL is by con·
+struction greater than the assumed right MAC; and the
+angle HLA is by construction internal, and opposite, and
+therefore less than (Eu. 1. 16) the external HCA, which
+is assumed acute.
+
+It remains therefore, that CH, whilst the angles at
+the join CD arc acute, is greater than this AM, and there·
+iore CD the double ol the former is greater than AB the
+double oi the latter.
+
+Quod erat tertio loco demonstrandum.
+
+’ Therefore it is established that the join CD will be
+equal to, or less, [⁴1 or greater than this AB, according
+as the angles at the same CD are right, or obtuse, or
+acute. ’
+
+Quae erant demonstranda.
+
+COROLLARY 1.
+
+Hence in every quadrilateral containing assuredly
+three right angles, and one obtuse, or acute, the sides
+adjacent to this oblique angle are less respectively than
+the opposite sides ir this angle is obtuse, but greater il
+it is acute. '
+
+For this has just now been demonstrated ol the side
+CH relatively to the opposite side AM ; in the same way
+itis demonstrated ol the side Ac relatively to the oppo-
+site side MH. For since the straights AC, MH, are
+perpendicular to this AM, they cannot (P. 1.) be mutually
+equal, on account ol the unequal angles at the join CH.
+
+But neither (in the hypothesis of an obtuse angle at
+
+¹⁵
+
+ 
+

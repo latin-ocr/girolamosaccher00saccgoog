@@ -1,0 +1,36 @@
+Tandem vero. Si tres anguli propositi trianguli ABC
+ponantur minores duobus rectis, jam duorum triangulo-
+
+· rum ADB, CDB, omnes simul anguli minores erunt qua-
+
+tuor rectis‚ propter duos additos rectos angulos ad punc·
+tum D. Hoc stante: neutrius inodo dictorum triangu-
+lorum tres simul anguli aequales erunt, aut majores duo·
+bus rectis ; nam sic viceversa alterius trianguli tres simul
+
+, anguli minores forent duobus rectis.- Quare (ex nona
+
+huius) ab uno quidem triangulo stabiliretur hypothesis
+aut anguli recti, aut anguli obtusi, et ab altero hypothesis
+anguli acuti; quod repugnat quintae, sextae, et septimae
+hujus. Igitur tres simul anguli utriusque praedictorum
+triangulorum minores erunt duobus rectis; ae propterea
+(ex [22] nona hujus) stabilietur hypothesis anguli acuti.
+Quod erat tertio loco demonstrandum.
+
+Itaque ex quolibet triangulo ABC, cujus tres simul
+anguli aequales sint, aut majores, aut minores duobus rec·
+tis, stabilitur respective hypothesis aut anguli recti, aut
+anguli obtusi, aut anguli acuti. Quod erat propositum.
+
+COROLLARIUM.
+
+' Hinc ; protracto uno quolibet cuiusvis propositi trian-
+guli latere‚ ut puta AB in H; erit (ex 13. primi) externus
+angulus HBC aut aequalis, aut minor, aut major reliquis
+simul internis, et oppositis angulis ad puncta A, et C,
+prout vera fuerit hypothesis aut anguli recti, aut anguli
+obtusi, aut anguli acuti. Et vicissim.
+
+ 
+

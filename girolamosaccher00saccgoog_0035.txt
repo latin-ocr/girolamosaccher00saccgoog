@@ -1,0 +1,48 @@
+Postulate. Here then is something worthy of Saccheri’s
+steel. To prove it from its own denial!
+
+This would show that Euclid's assumptions‚ though com-
+patible, were not all independent. On the other hand, the
+independence ol the Parallel Postulate from the other as-
+sumptione would be established ii it were shown to be in-
+demonstrable irom them even with the help ol its own con-
+tradictory opposite, that is, even by means ol Saccheri’s.
+darling type, IX—12.
+
+To get this negative in convenient form, Saccheri uses
+lor it an equivalent‚ employing a figure found in his Clavius,
+1574, and again in GiordanoVitale da Bitonto, in his Euclide
+restituto onero 912· antichi elementi geometrici ristournti, a
+facilitati. Libri XV. Roma. fol, 1680; and in both works pre·
+cisely in discussion oi this very matter. The figure is the
+isosceles bi-rectangular quadrilateral, Its other two angles
+are equal. To assume one right is, with Euclid's other as·
+sumptions‚ equivalent to the parallel postulate, whose nega·
+tive therelore is to assume one oblique. Armed then with
+this torm of its denial as an addition to the other Euclidean
+assumptione, Saccheri sallies forth to the frey, steeled ior
+
+. victory or defeat—but not lor the wholly unexpected and to
+
+him inexplicable compound of victory and defeat which he
+met. =
+His negation breaks into two equal parts. The angle
+assumed oblique is either obtuse or acute. Il it be obtuse,
+he easily achieves his accustomed victory: he proves the
+Parallel Postulate. Il it be acute, this twin will not win.
+
+Why? We know. Saccheri never did.
+
+Besides the Archimedes assumption, Euclid‚ and every
+one else for more than a century after Saccheri, assumes
+that the straight line is of infinite length. These assumptione
+nulliiy the possibility of a pair of obtuse angles in a bi-
+rectangular isosceles quadrilateral, and to that extent prove
+the “hypothesis of right angle,” which is then equivalent to
+the Parallel Postulate. But they are no obstacle to this pair
+ol angles being acute.
+
+Had there been some other unconscious assumption oi
+
+ 
+

@@ -1,0 +1,39 @@
+COROLLARIUM 11.
+
+Praeterea sequitur uniformem esse debere intelligen-
+tiam alterius Euclideae definitionis, in qua dicit planam
+superficiem esse, quae ex aequo suos interjacet lineus. Si
+enim superficies clausa praedictis lineis una ADX recta,
+et altera ABBX (sive haec sit unica, aut multiplex linea
+curva, sive sit composita ex duabus, aut pluribus lineis
+rectis, utputa AB, BB, ΒΧ) si, inquam, superficies [73]
+ejusmodi revolvi intelligatur circa» immotam rectam ADX,
+usque dum ipsa linea ABX perveniat ad congruendum
+lineae Acx, in parte adversa locatae, quae utique ad om·
+nimodam aequalitatem, et similis omnino sit ipsi ABX‚
+et rursum cum eadem recta ADX claudat (versus eandem
+sive supernam, sive infernam partem) superficiem om·
+nino aequalem, et similem antedictae; alterutrum sane
+. continget; vel ita ut una superficies alteri adamussim
+congruat; vel ita ut intra duas illas superficies claudatur
+spatium trinae dimensionis. Et primum quidem si con-
+tingat, dicetur superficies plana; sin vero contingat secun-
+dum, non dicetur superficies plana; quia tunc aliae inter-
+mediae intelligi poterunt inter easdem extremas lineas
+interpositae superficies invicem aequales, ac similes, quae
+semper magis ad se invicem sine ullo certo limite acce-
+dant, ac propterea usque ad excludendumomne spatium
+intermedium. Tunc autem utraque illa superficies dicetur
+plana, quia vere jacebit ex aequo inter suas extremas
+lineae, sine ullo ascensu, aut descensu in partes adversas.
+
+LEMMA II.
+
+Duae lineae rectae non possunt habere unum elidem
+sepmentum commune.
+
+Demonstratur. Si enim fieri potest; unum et idem
+segmentum AX commune sit (fig. 38.) duabus rectis,
+
+ 
+

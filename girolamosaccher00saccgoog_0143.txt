@@ -1,0 +1,50 @@
+say wholly similar; because I do not need the propor-
+tionality of the sides about the equal angles, nay nor any
+
+determinate measure of the sides Α ,
+themselves. Merely therefore I
+do not wish triangles mutually ΔΓ ΔΗ
+
+equilateral, since then Eu. 1. 8 Β Δ
+would alone suffice, without any ι
+assumption. Β
+
+So let the angles at the points Fig. 24, ’
+
+Α, Β, C, be equal to the angles
+
+at the points D, E, F; and let the side DE be less than
+the side AB; and in AB is assumed the portion AG equal
+to this DE, and likewise in AC the portion AH equal to
+this DF. But that DF must be less than AC Ι will make
+clear below. Then (GH joined) follows (from Eu. I. 4)
+the angles at the points E, and Fwill be equal [⁴1] to AGH,
+AHG. However since the just mentioned angles, together
+with the others BGH, CHG, are equal (Eu. I. 13) to four
+
+· right angles; likewise will be equal to four right angles
+
+the angles at the points B, and C, together with these same
+angles BGH, CHG. Therefore the four angles of the
+quadrilateral BGHC will be together equal to four right
+angles; and consequently (from P. XVI.) is established
+the hypothesis oi right angle; and at the same time (from
+’ Ρ. XIII.) the Euclidean postulate.
+
+MoreoverI have supposed the side DF, or AH assumed
+
+equal to it, to be less than the side AC. For ii it were ’
+
+equal, and so the point H should fall upon the point C,
+then the angle BCA would be equal (by hypothesis) to
+the angle EFD, or GCA (which then it would become)
+a part to the whole; which is absurd.
+
+But it it were greater, and so the join GH should cut
+BC itselt in some point, now the external angle ΑΕΒ
+would be from the hypothesis equal (against Eu. 1. 16) to
+
+107
+
+ 
+

@@ -1,0 +1,37 @@
+tam distantiam in aliquo puncto L. Jam vero constat sumi
+posse in KB portiones KK aequales singulas cuidem as·
+signabili longitudini R, et eas plures quolibet assignabili
+numero finit03 quandoquidem punctum B statui potest;
+juxta praesentem suppositionem; in quantalibet distantia
+ab eo puncto A. Itaque ex aliis punctis K erigantur ad
+AB perpendiculares KH, KD, KP, quae omnes (ex prae-
+citato Corollario) occurrent rectae AX in quibusdam
+punctis H, D, P; atque ita circa reliqua puncta K uni-
+* formiter designata versus punctum B. Constat secundo
+(ex 16. primi) angulos ad puncta L, H, D, P, fore omnes
+obtusos versus partes punctorum X; atque item (ex 13. .
+ejusdem primi) angulos ad praedicta puncta iore omnes
+acutos versus punctum A. Igitur (ex Cor. II. post 3.
+hujus) latus KH majus erit latere KL; latus KD majus
+latere KH; atque ita semper, procedendo versus puncta
+
+X. Constat tertio quatuor simul angulos quadrilateri
+¹ KLHK majores iore quatuor simul angulis quadrilateri
+KHDK: nam id in simili demonstratum jam est in
+
+XXIV. hujus. Constat quarto idem similiter valere de
+
+quadrilatero KHDK relate ad quadrilaterum KDPK;
+atque ita semper, procedendo ad qua-[58ldrilatera remo-
+tiora ab eo puncto A.
+
+Quoniam igitur tot aderunt (ut in XXV. hujus)
+praedicto modo recensita quadrilatera, quot sunt, praeter
+primam LK, demissae ex punctis ipsius AX perpendicu-
+lares ad rectam AB; constabit uniformiter (si ponamus
+novem, praeter primam, demissas ejusmodi perpendicu-
+lares) summam omnium angulorum, qui comprehendun-
+tur ab illis novem quadrilateris, excedere 35. rectos; ac
+
+ 
+

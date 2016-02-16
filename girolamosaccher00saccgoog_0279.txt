@@ -1,0 +1,39 @@
+NOTES.
+
+Paos 21. Prop. III: Euclid’s first two postulates are:
+Let it be granted,
+
+1. that one and only one sect can be drawn from any '
+point to any other;
+
+2. and that this sect may be produced continually on its
+straight.
+
+In Ι. 16 he assumes that the straight divides the plane
+into two separate regions, and also the Archimedes assump-
+tion that the straight is infinite and open. This block ol
+assumptions is incompatible with the hypothesis ol obtuse
+angle as Saccheri later shows. If it were also incompatible
+with the hypothesis ol acute angle, we should have a perfect
+case ot Saccheri’s lavorite method. The prools would be
+fairy proofs leading to a direct demonstration ol their con-
+tradictory opposite; and none of them could make part of a
+modern treatise on non-Euclidean geometry.
+
+But since Euclid's assumptions, barring the Parallel Pos-
+tulate, are perfectly compatible with the hypothesis ol acute
+angle, many of Saccheri's prools remain the most elegant
+and cogent the world possesses in the domain of non- ,
+Euclidean geometry. ’
+
+Pnos 27. Prop. III, Cor. II: Saccheri simply cites this
+corollary when, as often, he wishes the proposition: In any
+birectangular quadrilateral HMPC with angle P obtuse and
+angle C acute, side PM < CH.
+
+To this the prool ol Prop. III, Part 3, applies.
+
+²42
+
+ 
+

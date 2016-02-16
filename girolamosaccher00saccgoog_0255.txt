@@ -1,0 +1,44 @@
+the same will hold, ii the same mixed quadrilateral ANFC
+in either mode is supposed to be superposed to any of the
+remaining quadrilaterals even to the last quadrilateral
+BDFI inclusive.
+
+Therefore the angle of AC with the curve is equal to
+either of the angles with this curve of the aforesaid
+perpendiculars on either side at the points F, or at the
+mMKmmmD
+
+Hence follows secondly that the portions of the curve
+cut off on each side by these perpendiculars are exactly
+equal to one another. .
+
+If therefore the base AB be bisected in M, and the
+half AM bisected in L; then the quarter LM bisected in
+P; and so in infinitum, proceeding always toward the
+parts of the point M; it will follow thirdly‚ also the curve
+CKD is bisected in K by the perpendicular MK, the half
+CK in like manner bisected in F by the perpendicular LF,
+the quarter FK bisected in F by the perpendicular PF;
+and so in infinitum, proceeding always uniformly toward
+the parts of the point K.
+
+But since in this division of the base AB in infinitum
+we may [92] consider the thing to have arrived at a portion
+of AB infinitely small, which obviously may be exhibited
+by the infinitely small breadth of the perpendicular MK,
+fourthly (from the premised axiom) will follow the as-
+serted equality of the whole base AB with the whole curve
+CKD, if only I now can show the infinitely small portion
+cut off from the base AB by the perpendicular MK to be
+exactly equal to the infinitely small portion. which the
+same perpendicular cuts off from the curve CKD.
+
+And this last I thus demonstrate.
+
+For RK perpendicular to KM touches (from P.
+XXXV.) the curve at K, and touches this in K so, that
+between the tangent (from Cor. to P. XXXVI.) and the
+curve from neither side can be placed a straight, which
+
+ 
+

@@ -1,0 +1,44 @@
+have the asserted case oi a common perpendicular, since
+all angles at the points K are supposed right ; or all those
+angles toward the parts of the point A are obtuse, and
+therefore all therewith acute toward the parts oi the
+point X, and so again Ι argue: Since in the quadrilateral
+KDHK the angles at the points K are right, [46] but the
+angle at the point D is acute, the side DK will be (from
+Cor. ΙΙ. to P. ΙΙΙ.) greater than the side HK.
+
+In a similar way the side HK is shown to be greater
+than the side LK; and so always, comparing to each
+
+other perpendiculars frorn any ever higher points of AX ·
+
+let fall upon the other ΒΧ.
+
+Wherefore AX, ΒΧ mutually approach each other
+ever more toward the parts of the point X: which is the
+second partos the disjunct proposition.
+
+rrom an which rouows' that any two straights Ax,
+ΒΧ, which are in the same plane, either have (even in
+the hypothesis of acute angle) a common perpendicular.
+or produced toward either the sarne part, unless some-¹
+
+where at a finite distance one meets the other, mutually
+approach each other ever more.
+Quod erat etc.
+
+COROLLARY 1.
+
+Hence the angles toward the base AB will be always
+obtuse at each point ol AX, irorn which is let fall a
+perpendicular to the straight BX: will be, I say, always
+obtuse, as those two AX, and ΒΧ mutually approach
+each other ever more toward the parts of the points X;
+which of course should be understood in a sane way, of
+perpendiculars let fall before the mentioned meeting, ii
+
+perchance one is to strike upon the other at a finite dis·
+tance.
+
+ 
+

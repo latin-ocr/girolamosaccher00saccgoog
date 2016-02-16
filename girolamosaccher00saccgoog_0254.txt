@@ -1,0 +1,42 @@
+sum idem valebit, si idem quadrilaterum mistum ANFC
+utrovis modo superponi intelligatur cuivis reliquorum
+quadrilaterorum usque ad ipsum inclusive postremum
+quadrilaterum BDFI. Itaque angulus ipsius Ac cum ea
+curva aequalis est singulis hinc inde ad puncta F, sive ad
+punctum K, aut punctum D, praedictarum perpendicula·
+rium angulis cum eadem curva.
+
+Constat hinc secundo aequales adamussim inter se esse
+portiones ipsius curvae ab istis perpendicularibus hinc
+inde abscissas.
+
+Si ergo basis AB divisa sit bifariam in M, et medie-
+tas AM bifariam in L; tum quadrans LM bifariam in P;
+atque ita in infinitum, procedendo semper versus partes
+puncti M; constabit tertio, etiarn curvam CKD bifariam
+dividi in K a perpendiculari MK, medietatem CK bifa-
+riam itidem dividi in F a perpendiculari LF, quadrantem
+FK bifariam in F a perpendiculari PF; atque ita in infi-
+nitum, procedendo semper uniformiter versus partes ip-
+sius puncti K.
+
+Quoniam veroin ista basis AB in infinitum divisione -
+[⁹21 considerare possumus rem devenisse ad portionem
+ipsius AB infinite parvam, quae nempe exhibeatur per
+latitudinem infinite parvam perpendicularis MK, constabit
+quarto (ex praemisso axiomate) aequalitas intenta totius
+basis AB cum tota curva CKD, dum alias ostendam por-
+tionem infinite parvam abscissam ex basi AB a perpen-
+
+' diculari MK aequalem esse adamussim portioni infinite
+
+parvae, quam eadem perpendicularis abscindit ex curva
+CKD. Et hoc quidem postremum sic demonstro,
+
+Nam RK perpendicularis ipsi KM tanget (ex 35.
+hujus) curvam in K, atque ita eandem tanget in K, ut in·
+ter ipsam tangentem (ex Cor. post 36. hujus) et curvam,
+ex neutra parte locari possit recta, quae ipsam curvam non
+
+ 
+

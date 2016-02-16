@@ -1,0 +1,36 @@
+perpendiculum ΒΚ, aut ΒΧ, atque ideo considerari vi-
+cissim ut perpendicula ipsam AB, et rectam aequalem
+
+contrapositam KL, aut XR.
+Constat igitur hypothesim anguli recti, si vel in uno
+casu sit vera, semper in omni casu illam solam esse veram.
+
+Quod erat demonstrandum.
+
+PROPOSITIO v1.
+
+H ypothesis anpuli obtusi, si vel in uno casu est vera, sem·
+per in omni cusu illa sola est vera.
+
+Demonstratur. Efficiat juncta CD (fig. 5.) angulos
+obtusos curn duobus quibusvis aequalibus perpendiculis
+Ac, BD, uni cuivis rectae AB insistentibus. Erit CD
+
+(ex tertia hujus) minor ipsa AB. Sumantur in AC, BD
+protractis duae quaelibet invicem aequales portiones CR,
+[81Dx3 jungaturque RX. Jam quaero de angulis ad junc-
+tamRX, qui utique (ex prima hujus) aequales invicem
+erunt. Si obtusi sunt, habemus intentum. At recti non ‘
+sunt3 quia sic unum haberemus casum pro hypothesi
+
+anguli recti, qui nullum (ex praecedente) relinqueret
+locum pro hypothesi anguli obtusi. Sed neque acuti
+sunt. Nam sic esset RX (ex tertia hujus) major ipsa
+AB; ac propterea multo major ipsa CD. Hoc autem sub·
+sistere non posse sic ostenditur. Si quadrilaterum CDXR
+intelligatur impleri rectis abscindentibus ab ipsis CR, DX,
+portiones invicem aequales, implicat transiri a recta CD,
+quae minor est ipsa AB, ad RX eadem majorem, quin
+
+ 
+

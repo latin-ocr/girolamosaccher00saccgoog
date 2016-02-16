@@ -1,0 +1,45 @@
+from the point A through X toward B) cannot have two
+’ different positions in the same plane, in both of which
+the portion indeed AX persists in the same place, but the
+other portion XB in one ol those two positions fits (for
+example) XC, and in the other position fits XM.
+
+Of course I do not here deny, that the portion XB, if
+it is supposed to be moved in its plane about the point X,
+so that successively it fits exactly (from the preceding
+lemma) not merely XM, XC, but also exactly fits [75]
+the other infinitely many straights, which from the point
+X may be drawn to the remaining intermediate points of
+the arc BC: I say, I do not here deny, that XB in any ol
+its positions may be considered as the continuation in a
+straight of that fixed AX; when rather I have demon·
+strated already about AXM that this would happen in
+case of the hypothesis of a common segrnent: Solely
+therefore I here affirm, in one merely of those new posi·
+tions, as suppose while it fits XC, may be retained by it
+the same arbitrary continuation, which rt has rn the first
+position, where from the point A rt goes out through X
+toward the pointB. '
+
+And this indeed rs demonstrated thus. For first 1t is
+evident that the continuation AXB cannot be wholly.
+similar, or equal to the continuation AXC, if each is
+considered toward the same part whether left or right;
+because otherwise in such position AXB, AXC must
+mutually coincide ; which is against the hypothesis of that
+common segment AX: Ι say, must coincide; provided
+that of course, in relation to the same fixed AX, the con·
+tinuations XB, and XC in the plane concerned extend
+
+¹ just similarly toward the same part whether left or right.
+
+Secondly is evident that nothing prevents the aforesaid
+
+s continuation AXB, considered toward one part, as suppose,
+
+toward the left, being precisely similar, or equal to the
+continuation AXC, considered toward the opposite part,
+18³
+
+ 
+

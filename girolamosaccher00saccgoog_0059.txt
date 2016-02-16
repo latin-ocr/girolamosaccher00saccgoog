@@ -1,0 +1,48 @@
+Take in DC the piece DK equal to BA, and join ΑΚ
+Since therefore on BD stand perpendicular the equal
+straights ΒΑ, DK, the angles ΒΑΚ, ona wnr be equor
+(P. L). But this is absurd; since the angle BAK is by
+construction less than the assumed right angle BAC; and -
+the angle DKA is by construction external, and therefore
+(Eu. Ι. 16) greater than the internal and opposite DCA,
+which is supposed right. T herefore neither of the afore-
+said straights, DC, BA, is greater than the other, whilst
+the angles at the join (ΣΙ) are right; and therefore they
+are mutually equal.
+
+Quod erat primo loco demonstrandum. [3]
+
+Pnoor or aaa Sacouo Pares. But if the angles at
+the join CD are obtuse, bisect AB, and CD, in the points
+M, and H, and join MH.
+
+Since therefore on the straight ΜΗ stand perpendicu ·
+
+lar (P. ΙΙ.) the two straights AM, CH, and at the j0in
+AC is a right angle at A, the straight CH will not be
+(P. Ι.) equal to this AM, since a right angle is lacking
+at C. .
+
+But neither will-it be greater: otherwise in HC the
+piece KH being assumed equal to this AM, the angles at
+the join AK will be (P. I.) equal.
+
+But this is absurd, as above. For the angle MAK- is
+less than a right; and the angle HKA is (Eu. Ι. 16)
+greater than an obtuse, such as the internal and opposite
+HCA is supposed.
+
+It remains therefore, that CH, whilst the angles at the
+join CD are taken obtuse, is less than this AM3 and
+therefore CD double the former is less than AB double
+the latter. · . ¹
+
+Quod erat secundo loco demonstrandum.
+
+Pnoor oa sna Turno Pares. Finally, however, if the '
+
+angles at the join are acute, MH being constructed as be·
+fore perpendicular (P. ΙΙ.), we proceed thus. Since on
+
+ 
+

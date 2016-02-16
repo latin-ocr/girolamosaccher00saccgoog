@@ -1,0 +1,53 @@
+Here, for instance, is the demonstration in nobiliorem
+viom ol the noted rule ol the scholastic logic according to
+which in syllogisms of the so·called First Figure (in syllo-
+gisms, namely, in which the subject and the predicate of the
+conclusion enter respectively as subject and predicate also
+in the premises), the premise in which appears the subject
+oi the conclusion cannot be negative: In prinu figura minor
+non potest esse nepotioo.
+
+Taking the simplest particular case, it is to be proved
+that irom the two propositions:
+
+Every A is a B,
+No C is an A,
+
+can be inferred no general proposition (affirmative or nega·
+tive) having C as subject and B as predicate.
+
+Proposing to demonstrate this rule by means ol only the
+syllogism Barbara, which has its two premises universal and
+affirmative, Saccheri first observes that his aim would be
+attained it, lor each of the different forms oi syllogismo
+with negative minor premise constructible in the first figure,
+he could succeed in finding examples (that is, could choose
+
+such particular meanings lor the ternis entering) for which
+the two premises being true, the conclusion was false:
+
+“Si quispiam syllogismus taliter constructus non recte
+concludit, nullus alius similiter constructus vi formae con·
+cludet’' (Lopico dem, p. 130).
+
+[Is this Italy, 1697, or America, 1919?]
+
+For example, to prove that, from the two premises
+
+Every A is a B,
+No C is an A,
+
+we cannot deduce the conclusion
+
+NoCisaB.
+
+Attribute to the terms A, B, C, respectively the three
+following significatione: ,
+A=syllogism ol the first figure, having the two promises
+universal and affirmative;
+B = a valid syllogisrn ;
+
+xxvii
+
+ 
+

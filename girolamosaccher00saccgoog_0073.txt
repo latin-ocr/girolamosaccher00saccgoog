@@ -1,0 +1,43 @@
+hand the angle BXH is obtuse ; and, on the other, ii XM
+be joined, the angle BXM (Eu. I. 17) is acute. Then
+however, since the quadrilateral XBMP contains three
+right angles, from what has just now been noted, and
+one obtuse (Eu. I. 16) at the point P, because it is exter·
+nal in relation to the internal and opposite right angle at
+the point H of the triangle PHX; the side XP will be
+( Cor. 1.‚ P. ΙΙΙ.) less than the opposite ΒΜ. Wherefore,
+assuming in ΒΜ the portion BF equal to this XP, the
+angles at the join PF will be (P. Ι.) mutually equal,
+certainly obtuse, since the angle BFP (Eu. 1. 16) is ob
+tuse because oi the right angle interior and opposite
+ΙΡΜΡ. Therefore the hypothesis oi obtuse angle abides
+lor any base ΒΧ.
+
+But, as above, this hypothesis abides for this base
+BX, however much the equal perpendiculars are aug-
+mented or diminished at will. Therelore it holds, that
+ii even in a single case the hypothesis of obtuse angle
+is true, always in every case it alone is true.
+
+’ Quod erat demonstrandum.
+
+PROPOSITION VII.
+
+If even in o single case llve hypothesis of acute angle
+is true, always v'u every case il olom is true.
+
+Puooe is very easily given. For ii the hypothesis oi
+acute angle should permit any case oi either other hypoth-
+esis, either of right angle, oroi obtuse angle, now (from ¹
+'the two preceding [10] propositions) no place would be left
+for the hypothesis of acute angle; which is absurd.
+
+Therefore il even in a single case the hypothesis of
+acute angle is true, always in every case it alone is true.
+
+Quod erat demonstrandum.
+
+³7
+
+ 
+

@@ -1,0 +1,39 @@
+PROPOSITIO v111.
+
+Doto quovis trionqnlo (fio. 7.) ΑΒΕ, rectonynio in B,
+protrahatur DA usquead olionod punctum X, et per
+’ Α eriyotnr ipsi AB perpendicularis HAC, existente
+puncto H od portes annuli ΧΑΒ. Dico ononinm er-
+ternnm XAH aequalem sore, ont minorem, ont mo· ’
+jorem interno, et opposito ΑΗΒ, prout vero sit hypo· ,
+thesis onynli recti, ont arronii obtusi, ont onynli uenti:
+Et vicissim. .
+
+. Demonstratur.‘ Sumatur'in HC portio Ac aequalis
+
+ipsi BD, jungaturque CD. Erit CD, in hypothesi anguli
+recti, aequalis (ex tertia hujus) ipsi AB. Quare angulus
+ADB aequalis erit (ex octava primi) angulo DAC, sive
+ejus aequali (ex decimaquinta primi) angulo XAH.
+Quod erat primo loco demonstrandum. ·
+
+Tum, in hypothesi anguli obtusi, erit CD (ex eadem
+tertia hujus) minor ipsa ΑΒ. Quare in triangulis ADB.
+DAC erit (ex vigesimaquinta primi) angulus Duc, sive
+(ipsi ad verticem) XAH, minor angulo ADB. Quod
+erat secundo loco demonstrandum.
+
+Tandem, in hypothesi anguli acuti, erit CD (ex eadem
+tertia hujus) major contraposita ΑΒ. Quare in prae-
+dictis triangulis erit (ex eadem vigesimaquinta primi)
+angulus DAC, sive (ipsi ad verticem) XAH, major an·
+gulo ADB. Quod erat tertio loco demonstrandum.
+
+Vicissim autem: si angulus cAD‚ sive ejus ad verti-
+cem XAH, aequalis sit interm, et opposito· ADB; erit
+(ex quarta primi) juncta. CD aequalis ipsi AB, ac propte·
+[11] rea (ex quarta hujus) vera erit hypothesis anguli
+recti.
+
+ 
+

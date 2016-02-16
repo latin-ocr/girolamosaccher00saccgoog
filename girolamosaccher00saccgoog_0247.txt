@@ -1,0 +1,53 @@
+But what I say for finding points between the points
+C and K, the same also holds good uniformly for finding
+points between the points K and D; oi course the curve
+
+[88] CKD, arising irorn the hypothesis of acute angle, Ι
+
+is the line joining the extremities of all equal perpendicu-
+lars erected upon the same base toward the same part,
+
+which assuredly can come under the name ordinates; it is, '
+
+I may say, a line of such sort, that on account of the
+hypothesis of acute angle, from which it ariseS, ¹it always
+is concave toward the parts ol the opposite base AB.
+
+Quod quidem hoc loco declarandum, ac demonstran-
+dum a nobis erat.
+
+PROPOSITION XXXV.
+
+If from any point L of the base ΑΒ the ordinate LF is
+drawn to wis curve CKD: I say the straight NFX
+perpendicalw to LF must on both sides fall wholly
+toward the conver parts of this curve, aad therefore
+it will be tangent to wis curve.
+
+Pnoor. For ii possible, let a certain point X (fig. 43)
+. ol NFX fall within the cavity -
+oi this curve. Let fall from η r·
+the point X to the base AB the ς
+perpendicular XP, which pro-
+
+longed through X meets the
+
+gn·
+
+curve in a certain point R. Now
+
+thus. In the quadrilateral LFXP
+
+the angle at the pointXwill be Α ’“ ἨΜ 43 ³
+neither right nor obtuse: else ς’ ’
+
+(Ρ. V. and P. VI.) would be destroyed the present hy·
+pothesis of acute angle.
+
+Thereiore the aforesaid angle will be acute. Where-
+fore (from Cor. 1. to P. III.) PX and so much more
+PR will be greater than LF. But this is absurd (from
+the preceding) against the nature oi this curve.
+
+ 
+

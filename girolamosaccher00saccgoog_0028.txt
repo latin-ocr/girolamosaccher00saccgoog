@@ -1,0 +1,52 @@
+“Hanc propositionem non scripsi, quod esset magni mo·
+menti, sed propter modum probandi.
+
+“Si enirn respicis, ex uno opposito (scilicet quod peri-
+pheria circuli sit major trianguli lateribus) ostendo, demon·
+stratione non ducente ad inconveniens sed simplici, quod
+ipsa peripheria minor est trianguli lateribus.
+
+“Et hoc nunquam fuit factum ab aliquo, immo videtur
+plane impossibile, et est res admirabilior quae inventa sit ab
+orbe condito, scilicet ostendere aliquod ex suo opposito,
+demonstratione non ducente ad impossibile, et ita ut non
+possit demonstrari ea demonstratione nisi per illud sup
+positum quod est contrarium conclusioni, velut si quis de-
+monstraret quod Socrates est albus quia est niger, et non
+possit demonstrare aliter; et ideo est longe majus Chrysip·
+paeo Syllogismo.''⁴
+
+But that Cardan had been anticipated in this mode oi
+deduction is twice noted by C. Clavius (1537-1612)‚ once
+apropos of a demonstration given by Theodosius of Tripoli
+(S planeticorum, lib. Ι. prop. 12), in prooi oi the theorem
+that two circles on the same sphere cannot bisect one another
+
+unless they are great circles:
+
+“Hic vides mirabile argumentandi modus quod ex eo
+quod dicitur C non esse centrum sphaerae demonstratum
+est, demonstratione affirmativa, C esse centrum sphaerae.
+Quo modo argumentandi etiam usus est Euclides (IX. 12.)
+et Cardanus De proportionibus (V. prop. 201)”;
+
+and again in a scholium on Eu. IX. 12, in his Euclidis eie-
+mentorum libri XV. Roma. 8⁰. 1574.
+
+Euclid’s proof is a characteristic example oi this logical
+procedure, this type of demonstration.
+
+“‘And this has never been done by any one: nay, it seems
+clearly impossible, and is the most wonderful thing that has been
+devised since the creation of the world, namely, to prove something
+from its opposite, the demonstration not leading to an impossibility,
+and in such a way that it could not be proved by that demonstration
+except by that being supposed which is contrary to the conclusion,
+just as ii one were to prove that Socrates is white because he is
+blaclr and could not prove it in any other way; and ior that reason
+it is iar greater than the Chrysippaean Syllogism.”
+
+nri
+
+ 
+

@@ -1,0 +1,36 @@
+possit; sub quo, si recta quaepiam in alteram incidat,
+debeat haec producta (ad finitam, seu terminatam distan-
+tiam) aliquando occurrere cuivis ad quantamlibet finitam
+distantiam excitatae super ea incidente perpendiculari.
+
+PROPOSITIO XVIII.
+
+Ex quolibet rrtauquo ΑΒΕ, cujus angulus (riq. 17.) od
+puuctum B iu uuo quovis semicirculo existat, cujus
+diameter Ac, stabilitur hypothesis aut eupuli recti,
+out eupuli obtusi, out eupuli ocuti· prout nempe aru
+putus ad puuctum B fuerit out rectus, out obtusus,
+out ocutus.
+
+Demonstratur. Ex centro D jungatur DB. Erunt
+(ex quinta primi) aequales anguli ad basim AB, atque
+item ad basim BC, in triangulis ADB, CDB. Quare, in
+triangulo ABC, duo simul anguli ad basim AC aequales
+erunt toti angulo ABC. Igitur tres simul anguli trianguli
+ΑΒΕ aequales erunt, aut majores, aut minores duobus
+rectis, prout angulus ad punctum B fuerit aut rectus aut
+obtusus, aut acutus. Itaque ex quolibet triangulo ABC,
+cujus angulus ad punctum B in uno quovis semicirculo
+existat, cujus diameter AC, stabilitur (ex 15. hujus) hy-
+· pothesis aut anguli recti, aut anguli obtusi, aut anguli
+acuti, prout nempe angulus ad punctumB fuerit aut rec-
+tus, aut obtusus, aut acutus. Quod erat etc.
+
+PROPOSITIO XIX.
+
+Esto quodvis triangulum ΑΗΒ (rip. 18.) rectoupulum iu
+H. Tum iu AD continuata sumatur portio DC
+oequoir's ipsi AD; demittaturque ad ΑΗ productam
+
+ 
+
